@@ -148,7 +148,7 @@ After you have logged in for the first time, BTT Writer displays the Terms of Us
  
 3.	When you have read all statements, click I Agree. 
  
-Note: At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the Settings Menu. (See: `BTT Writer for Desktop: Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.rst>`_) 
+Note: At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the Settings Menu. (See: `BTT Writer for Desktop: Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.html>`_) 
 
 4.	The program opens to the *Your Translation Projects* screen (which is the home screen). The first time you use the program you have no existing projects, so the home screen displays a welcome message.
 
