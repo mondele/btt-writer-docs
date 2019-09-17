@@ -2,9 +2,9 @@ BTT Writer for the Desktop: Getting Started
 ====================================================
 
 .. image:: ../images/BTTwriterDesktop.gif
-    :width: 205px
+    :width: 180px
     :align: center
-    :height: 230px
+    :height: 200px
     :alt: translationStudio for the Desktop
     
 BTT Writer for the Desktop enables translators to do offline translating of the Bible or of Bible resources. It can be used for two purposes:
