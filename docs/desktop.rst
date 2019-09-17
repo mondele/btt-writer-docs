@@ -5,7 +5,7 @@ BTT Writer for the Desktop: Getting Started
     :width: 180px
     :align: center
     :height: 200px
-    :alt: translationStudio for the Desktop
+    :alt: BTT Writer for the Desktop
     
 BTT Writer for the Desktop enables translators to do offline translating of the Bible or of Bible resources. It can be used for two purposes:
 
@@ -56,10 +56,10 @@ This process requires an Internet connection.
  
   13. At the *Completing the translationStudio Setup Wizard* window, click Finish to complete the installation.
   
-Opening translationStudio
+Opening BTT Writer
 ---------------------------------------------------
 
-Complete these steps to open translationStudio: 
+Complete these steps to open BTT Writer: 
 
   *	If you chose to create a desktop icon during installation, double-click the desktop icon.
  
@@ -67,14 +67,14 @@ Complete these steps to open translationStudio:
 
     * Click the "start" icon on your computer or press the Windows key on your keyboard.
 
-    * Find translationStudio in the list of programs and click to open it.
+    * Find BTT Writer in the list of programs and click to open it.
 
 2.	Create or login to your account. See `Login Options`_ for more information.
 
 Login Options
 -------------
 
-When translationStudio first opens, you are presented with a request to create or log in to an account. 
+When BTT Writer first opens, you are presented with a request to create or log in to an account. 
 There are two types of accounts that you can use:
 
 * **Offline Account** – user has full use of the program except for uploading to Door43. You may want to start with an offline account and then switch to a Door43 account later when you want to upload your work (the work is attached to the device, not to the account).  
@@ -110,7 +110,7 @@ If you do not have a Door43 account, but you wish to be able to use an Internet 
 
 3.	Click the **Email Address** line to enter your email address.
 
-4.	Enter your name or pseudonym in the **Login name** field. This is your Door43 user name that you will use to log in to Door43 and to the translationStudio app. If you used a pseudonym in step (2) above, enter the same pseudonym here.
+4.	Enter your name or pseudonym in the **Login name** field. This is your Door43 user name that you will use to log in to Door43 and to the BTT Writer program. If you used a pseudonym in step (2) above, enter the same pseudonym here.
 
 5.	Enter a password in both fields. Click **Show Passwords** at the bottom of the screen to display the passwords.
 
@@ -121,7 +121,7 @@ If you do not have a Door43 account, but you wish to be able to use an Internet 
 Logging Out
 -----------
 
-You do not need to log out of the app before you close it. If you do not log out, when you reopen translationStudio you will still be logged in.
+You do not need to log out of the app before you close it. If you do not log out, when you reopen BTT Writer you will still be logged in.
 
 However, you may want to log out to change the logged-in user. For example, you may do your work offline with an offline account, but when you want to upload your work you need to use a Door43 account.
 
@@ -140,7 +140,7 @@ OR
 Agreeing to Terms of Use
 -------------------------------
 
-After you have logged in for the first time, translationStudio displays the Terms of Use. Read and agree with each of the statements in the Terms of Use by performing the following steps:
+After you have logged in for the first time, BTT Writer displays the Terms of Use. Read and agree with each of the statements in the Terms of Use by performing the following steps:
 
 1.	Click each statement.
  
@@ -158,7 +158,7 @@ Setup Steps
 How do I set up to translate the Bible or Open Bible Stories?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you are using translationStudio to translate the Bible or Open Bible Stories, you need to enable Blind Edit Mode. You can enable Blind Edit Mode at any time for existing projects or for new projects that are doing this type of translation.
+If you are using BTT Writer to translate the Bible or Open Bible Stories, you need to enable Blind Edit Mode. You can enable Blind Edit Mode at any time for existing projects or for new projects that are doing this type of translation.
 
 To enable Blind Edit Mode, perform the following steps:
 
@@ -171,9 +171,9 @@ To enable Blind Edit Mode, perform the following steps:
 How do I set up to translate Bible resources?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you are using translationStudio to translate Bible resources (translationNotes , translationQuestions, or translationWords) from English into a Gateway language, there is a setup step that you need to perform prior to starting a project.
+If you are using BTT Writer to translate Bible resources (translationNotes , translationQuestions, or translationWords) from English into a Gateway language, there is a setup step that you need to perform prior to starting a project.
 
-You must set translationStudio to use Gateway Language Mode so that the resources are available to be translated. Setting this mode does not affect existing projects, if any. It affects only the options that you see when creating new projects.
+You must set BT to use Gateway Language Mode so that the resources are available to be translated. Setting this mode does not affect existing projects, if any. It affects only the options that you see when creating new projects.
 
 To use Gateway Language Mode for new projects, perform the following steps:
 
