@@ -1,13 +1,13 @@
-translationStudio for the Desktop: Getting Started
+BTT Writer for the Desktop: Getting Started
 ====================================================
 
-.. image:: ../images/tSforDesktop.gif
+.. image:: ../images/BTTwriterDesktop.gif
     :width: 205px
     :align: center
     :height: 230px
     :alt: translationStudio for the Desktop
     
-The translationStudio for the Desktop program enables translators to do offline translating of the Bible or of Bible resources. It can be used for two purposes:
+BTT Writer for the Desktop enables translators to do offline translating of the Bible or of Bible resources. It can be used for two purposes:
 
 * For translators to translate the Bible (or Open Bible Stories) from English to a gateway language, or from a gateway language to a mother tongue
 
