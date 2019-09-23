@@ -1,15 +1,15 @@
 .. _tS_Settings:
 
-tS for Android™: Modifying Program Settings 
+BTT Writer for Android™: Modifying Program Settings 
 ==========================================================
 
-.. image:: ../images/tSForAndroidWithAttr.gif
+.. image:: ../images/BTTwriterAndroid.gif
     :width: 305px
     :align: center
     :height: 245px
-    :alt: translationStudio for Android
+    :alt: BTT Writer for Android
 
-There are several settings for the translationStudio app that you can view or modify. To open the settings window, tap the 3-dot icon at the bottom left (or right) of the screen and tap Settings on the menu.
+There are several settings for the BTT Writer app that you can view or modify. To open the settings window, tap the 3-dot icon at the bottom left (or right) of the screen and tap Settings on the menu.
 
 Tap the Back Arrow at the top left of the screen to exit the settings window.
 
@@ -72,9 +72,9 @@ The General settings are as follows:
 
   * A blue square with a white check mark means that the option has already been chosen.
 
-7.	**Version**: The version of the translationStudio program is displayed.
+7.	**Version**: The version of the BTT Writer program is displayed.
 
-8.	**Check for updates**: Tap to check for updates to translationStudio. This uses an internet connection.
+8.	**Check for updates**: Tap to check for updates to BTT Writer. This uses an internet connection.
 
 Server Settings
 ---------------
@@ -106,7 +106,7 @@ Tap Legal to view important legal information.
 
 *	**Translation Guidelines** - read this document to learn about the guidelines that can help the translator clearly, accurately and naturally translate the text.
 
-*  **Software Licenses** - this file contains all the licenses for the various softwares that are used to create the translationStudio program.
+*  **Software Licenses** - this file contains all the licenses for the various softwares that are used to create the BTT Writer program.
 
 *  **Attribution** - read this document to learn about the restrictions of using the derivative works and name branding.
 
@@ -124,4 +124,4 @@ Advanced Settings
 Logging Level and Developer Tools
 ---------------------------------
 
-The settings in these areas are set by the program. You should not change these settings unless directed to do so by a translationStudio technician.
+The settings in these areas are set by the program. You should not change these settings unless directed to do so by a BTT Writer technician.
