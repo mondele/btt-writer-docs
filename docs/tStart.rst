@@ -26,7 +26,7 @@ The definition of a translation project consists of:
 
 To start a translation project, you must specify each of these elements.
 
-Begin by clicking the blue plus sign on the home screen to start defining a new project. When you first start using translationStudio,
+Begin by clicking the blue plus sign on the home screen to start defining a new project. When you first start using BTT Writer,
 there is also a green **Start a New Translation** button on the home screen that you can use to start a new project.
 
 
@@ -65,15 +65,15 @@ The best way to submit a request is to send an email to help@door43.org. Another
 
 To use Feedback in the 3-dot options menu to request a new language:
 
-1.	From any screen in translationStudio, tap the 3-dot icon on the left or bottom.
+1.	From any screen in BTT Writer, tap the 3-dot icon on the left or bottom.
 
 2.	In the list of options, tap Feedback.
 
-3.	The Feedback screen opens. Type the name of the language you would like added to translationStudio. Provide the location pf the speakers and other names the language is known by. If you used a language that is already in the APP, tell which language you used.
+3.	The Feedback screen opens. Type the name of the language you would like added to BTT Writer. Provide the location pf the speakers and other names the language is known by. If you used a language that is already in the APP, tell which language you used.
 
 4.	Tap **Confirm** to send your request.
  
-.. note:: Even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the app, use *English Demo1* or *English Demo2*. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the tS workers will put it in the correct language. Your translation will then show in your language.
+.. note:: Even after requesting a new language, certain approvals are required before it will be added to BTT Writer. Until your language is added to the app, use *English Demo1* or *English Demo2*. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the tS workers will put it in the correct language. Your translation will then show in your language.
 
 How do I select the project category?
 ---------------------------------------
@@ -88,7 +88,7 @@ After you have selected your target language, the next screen(s) enable you to s
 How do I select or change the source text? 
 -----------------------------------------------------
 
-You can select and/or change your source text whenever you use translationStudio. When first creating a new project, you *must* select a source text language. This is the text you will be translating *from*.
+You can select and/or change your source text whenever you use BTT Writer. When first creating a new project, you *must* select a source text language. This is the text you will be translating *from*.
 
 In the translation project complete the following steps to select or change the source text:
 
