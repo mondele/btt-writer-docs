@@ -1,12 +1,12 @@
-tS for Android™: Starting a New Translation Project 
+BTT Writer for Android™: Starting a New Translation Project 
 ====================================================
 
 
-.. image:: ../images/tSForAndroidWithAttr.gif
+.. image:: ../images/BTTwriterAndroid.gif
     :width: 305px
     :align: center
     :height: 245px
-    :alt: translationStudio for Android
+    :alt: BTT Writer for Android
 
 How do I select what to work on?
 --------------------------------
