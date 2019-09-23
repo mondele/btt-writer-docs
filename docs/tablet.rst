@@ -7,14 +7,14 @@ BTT Writer for Android™: Getting Started
     :height: 245px
     :alt: BTT Writer for Android
 
-The app BTT Writer for Android is a mobile app that enables offline translating. It contains the content that needs to be translated as well as translationHelps. You can share information directly from device to device, and you can upload finished content to Door43 where it can be digitally published.
+The app BTT Writer for Android is a mobile app that enables offline translating. It contains the content that needs to be translated as well as translationHelps. You can share information directly from device to device, and you can upload finished content to a server where it can be digitally published.
 
 
 Installation
 ------------
 1.	Tap the Google Play Store icon on the Android device. Google Play Store opens.
  
-2.	In the search bar at the top of the screen, type **translationStudio** with no spaces and tap the magnifying glass on the keyboard.
+2.	In the search bar at the top of the screen, type **BTT Writer** and tap the magnifying glass on the keyboard.
  
 3.	When the Play Store has found the program, tap the tS icon.
  
@@ -22,9 +22,9 @@ Installation
  
 5.	Once the program is installed, tap **Open**.
 
-6.	Tap **ALLOW** to enable translationStudio to access photos, media, and files on your device.
+6.	Tap **ALLOW** to enable BTT Writer to access photos, media, and files on your device.
  
-There may be an automatic update before the translationStudio app opens.
+There may be an automatic update before the BTT Writer app opens.
 
 
 
@@ -48,9 +48,9 @@ If you do not want to create a new server account at this time or are not able t
 
 4.	Tap **Continue** to acknowledge the privacy notice.
 
-If you are connected to the internet want to use an existing Door43 account, you can tap **Login to your Server account**. Enter your Door43 credentials to log in.
+If you are connected to the internet want to use an existing server account, you can tap **Login to your Server account**. Enter your server credentials to log in.
 
-If you do not have a Server account, but you wish to be able to use an Internet connection to upload your work to Door43, you can create a Door43 account:
+If you do not have a Server account, but you wish to be able to use an Internet connection to upload your work to the server, you can create a server account:
 
 1.	Tap **Create a Server Account** to create a new server user account. The Server Account Creation window opens. (This requires an Internet connection.)
 
@@ -71,7 +71,7 @@ Logging Out
 
 You do not need to log out of the app before you close it. If you do not log out, when you reopen BTT Writer you will still be logged in.
 
-However, you may want to log out to change the logged-in user. For example, you may do your work offline with an offline account, but when you want to upload your work you need to use a Door43 account.
+However, you may want to log out to change the logged-in user. For example, you may do your work offline with an offline account, but when you want to upload your work you need to use a server account.
 
 At any time you can perform the following steps to access the initial screen to change login or translator settings:
 
@@ -98,7 +98,7 @@ Complete these steps to use BTT Writer for the first time:
 
    *	Tap Close for each statement.
 
-   *	When you have read all statements, tap I Agree. (At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the `Settings Menu <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/tSettings.rst>`_)
+   *	When you have read all statements, tap I Agree. (At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the `Settings Menu <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/tSettings.rst>`_)
 
 4.	The program opens to the Your Translation Projects screen (which is the home screen). 
 
