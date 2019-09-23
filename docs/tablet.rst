@@ -2,9 +2,9 @@ BTT Writer for Android™: Getting Started
 ===============================================
 
 .. image:: ../images/BTTwriterAndroid.gif
-    :width: 305px
+    :width: 230px
     :align: center
-    :height: 245px
+    :height: 185px
     :alt: BTT Writer for Android
 
 The app BTT Writer for Android is a mobile app that enables offline translating. It contains the content that needs to be translated as well as translationHelps. You can share information directly from device to device, and you can upload finished content to Door43 where it can be digitally published.
