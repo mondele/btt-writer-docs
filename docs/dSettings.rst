@@ -1,13 +1,13 @@
-tS for Desktop: Modifying Program Settings 
+BTT Writer for the Desktop: Modifying Program Settings 
 ==========================================================
 
-.. image:: ../images/tSforDesktop.gif
+.. image:: ../images/BTTwriterDesktop.gif
     :width: 205px
     :align: center
     :height: 165px
-    :alt: translationStudio for Desktop
+    :alt: BTT Writer for the Desktop
 
-There are several settings for the translationStudio program that you can view or modify. To open the settings window, click the 3-dot icon at the bottom left of the screen and click Settings on the menu.
+There are several settings for the BTT Writer program that you can view or modify. To open the settings window, click the 3-dot icon at the bottom left of the screen and click Settings on the menu.
 
 Click the Back Arrow at the top left of the screen to exit the settings window.
 
@@ -30,9 +30,9 @@ General Settings
 
 The General settings are as follows:
 
-1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See *How do I set up to translate Bible resources?* in `translationStudio for the Desktop <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/desktop.rst>`_.
+1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See *How do I set up to translate Bible resources?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
   
-2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See *How do I set up to translate the Bible or Open Bible Stories?* in `translationStudio for the Desktop <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/desktop.rst>`_.
+2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See *How do I set up to translate the Bible or Open Bible Stories?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
 
 3. **Target Translation Font**: The font of the translated text
 
@@ -75,11 +75,11 @@ About Settings
 
 These settings cannot be changed by the user; they are only for display.
 
-1. **App Version** - The version of translationStudio
+1. **App Version** - The version of BTT Writer
 
 2. **Git Version** - The version of Git (version control software)
 
-3. **Data Path** - The path to data used by translationStudio
+3. **Data Path** - The path to data used by BTT Writer
 
 Legal Settings
 --------------
@@ -92,7 +92,7 @@ Click **Legal** to view important legal information.
 
 *	**Translation Guidelines** - read this document to learn about the guidelines that can help the translator clearly, accurately and naturally translate the text.
 
-*  **Software Licenses** - this file contains all the licenses for the various softwares that are used to create the translationStudio program.
+*  **Software Licenses** - this file contains all the licenses for the various softwares that are used to create the BTT Writer program.
 
 *  **Attribution** - read this document to learn about the restrictions of using the derivative works and name branding.
 
@@ -108,4 +108,4 @@ These settings cannot be changed by the user; they are only for display.
 Advanced
 ---------------------------------
 
-* **Developer Tools**: You should not open developer tools unless directed to do so by a translationStudio technician.
+* **Developer Tools**: You should not open developer tools unless directed to do so by a support technician.
