@@ -1,33 +1,33 @@
-tS for Desktop: Importing a Project 
+BTT Writer for the Desktop: Importing a Project 
 ==========================================================
 
-.. image:: ../images/tSforDesktop.gif
+.. image:: ../images/BTTwriterDesktop.gif
     :width: 205px
     :align: center
     :height: 165px
-    :alt: translationStudio for Desktop
+    :alt: BTT Writer for the Desktop
 
 
-The translationStudio program enables you to import a project from various sources. To import a project, start from the Home page:
+The BTT Writer program enables you to import a project from various sources. To import a project, start from the Home page:
  
 1. Click on the 3-dot icon at the bottom left of the window. 
 
 2. Select Import from the menu. 
 
-There are four options to choose from when importing to translationStudio.
+There are four options to choose from when importing to BTT Writer.
  
-Import from Door43
+Import from Server
 -------------------
 
 This requires an Internet connection.
 
-If you are logged into translationStudio with a Door43 account; choosing this option opens a screen with a list of all your Door43 online projects.
+If you are logged into translationStudio with a server account, choosing this option opens a screen with a list of all your server online projects.
 
 You could also search for another user's project:
 
 1. Remove your user name from the left search field.
 
-2. Type in the Door43 user name of the user whose project you want to import.
+2. Type in the server user name of the user whose project you want to import.
 
 Another possibility is to search for a project by the book name or language: 
 
@@ -46,13 +46,13 @@ Once you have located the project you wish to import:
 Import Project File
 --------------------
 
-This process imports into the program a translationStudio project from a file on the computer. These are files that have an extension of tstudio.
+This process imports into the program a BTT Writer project from a file on the computer. These are files that have an extension of tstudio.
 
 Follow this process to import a tstudio file:
 
 1.	Click **Import Project File** to import a project from the hard drive of the computer. 
  
-2.	The program opens the file manager to the directory of the translationStudio backups. Either choose one of the backup projects or navigate to the desired file. Hint: you will be able to view only the files that have an extension of tstudio. 
+2.	The program opens the file manager to the directory of the BTT Writer backups. Either choose one of the backup projects or navigate to the desired file. Hint: you will be able to view only the files that have an extension of tstudio. 
  
 3.	Click to select the desired .tstudio file, and then click **Open**. 
  
@@ -67,7 +67,7 @@ Follow this process to import a usfm file:
 
 1.	Click **Import USFM File** to import a file from the hard drive of the computer. 
  
-2.	The program opens the file explorer to the translationStudio backups folder. Navigate to find the desired file. **Hint**: you will be able to view only the files that have an extension of txt or usfm.
+2.	The program opens the file explorer to the BTT Writer backups folder. Navigate to find the desired file. **Hint**: you will be able to view only the files that have an extension of txt or usfm.
 
 3.	Click to select the desired file, and then click **Open**. 
 
@@ -86,7 +86,7 @@ Follow this process to import a usfm file:
 Import Source Text
 --------------------
 
-If you have a file containing source text that you want to use for a project, you can select this option to do so. Refer to the information on `<http://resource-container.readthedocs.io/en/latest/index.html>`_ to create your own source text file that can be imported into the translationStudio program. 
+If you have a file containing source text that you want to use for a project, you can select this option to do so. Refer to the information on `<http://resource-container.readthedocs.io/en/latest/index.html>`_ to create your own source text file that can be imported into the BTT Writer program. 
 
 Making the choice to import source text opens the File Manager. Navigate to the desired source text file, click the file name, and click **Open** to import it.
 
@@ -127,7 +127,7 @@ The possible actions for dealing with importing duplicate projects are:
   
   * **Warning**: Choosing to overwrite the project removes all information on the computer related to the previous local project and substitutes it with the information from the imported project.
  
-  * We recommend that you do not choose this option if you have previously uploaded the project to Door43.
+  * We recommend that you do not choose this option if you have previously uploaded the project to the server.
  
   * If you run into difficulty you can always contact help@door43.org for help or submit a ticket using the following link: `<http://help.door43.org/en/topics/new>`_.
   
