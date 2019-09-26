@@ -1,16 +1,16 @@
-tS for Desktop: Performing Navigation 
+BTT Writer for the Desktop: Performing Navigation 
 ========================================
 
-.. image:: ../images/tSforDesktop.gif
+.. image:: ../images/BTTwriterDesktop.gif
     :width: 305px
     :align: center
     :height: 245px
-    :alt: translationStudio for Android
+    :alt: BTT Writer for the Desktop
     
 Layout
 ------
 
-There are two main screens in the translationStudio program: 
+There are two main screens in the BTT Writer program: 
 
 *	The Home screen, or *Your Translation Projects* screen, shows any projects that have been created on the computer. If there are no projects, the Home screen displays a welcome message. The Home screen also shows the user name and a Log out button.
 
@@ -27,10 +27,10 @@ A Words project is different from the other project types in that it is not tied
 
 A Words project has two panes. The left pane contains the English word or term and the definition of it. The right pane is the working area containing a notecard for each word. You translate the word or term above the red line and the definition in the area below the red line. Just click the notecard to begin typing your translation.
  
-*	Translate the translationWord in the top section on the right panel. 
+*	Translate the Word in the top section on the right panel. 
   *	Click above the red line on the 'Translate word here' words. 
   *	Type in the translation of the word or phrase. 
-*	Translate the definition of the translationWord: Click on the words 'Translate definition here' and start typing the translation of the definition. Write translations that will help Other Language translators understand how they can determine the best word to use in their language. 
+*	Translate the definition of the Word: Click on the words 'Translate definition here' and start typing the translation of the definition. Write translations that will help Other Language translators understand how they can determine the best word to use in their language. 
 
 **Words project navigation**
 
@@ -40,7 +40,7 @@ You navigate in a Words project by using the navigation icons at the left:
 Working in a Notes project
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The translationNotes are tied to a specific part, or chunk, of Open Bible Stories or of a book of the Bible.
+The Notes are tied to a specific part, or chunk, of Open Bible Stories or of a book of the Bible.
 
 **Notes project layout**
 
@@ -65,7 +65,7 @@ To navigate in a Notes project, use the navigation buttons at the left of the sc
 Working in a Questions project
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The translationQuestions, like the translationNotes, are tied to a specific part, or chunk, of Open Bible Stories or of a book of the Bible.
+The Questions, like the Notes, are tied to a specific part, or chunk, of Open Bible Stories or of a book of the Bible.
 
 **Questions project layout**
 
@@ -105,7 +105,7 @@ If you are not in blind edit mode, there are two views for a text project:
 
 **Blind Edit Mode**
 
-To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `translationStudio for the Desktop <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/desktop.rst>`_
+To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `translationStudio for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_
 
 If you change the settings to Blind Edit Mode, a third view is available for text projects. You access this Blind Edit view by clicking the icon that looks like two sheets of paper. 
 
@@ -118,15 +118,6 @@ For additional information on translating in a text project, see Translate in a 
 The navigation buttons in a text project are different depending on the view:
 *	In the Blind Edit view or the Edit-Review view, the navigation buttons are the same as in the Notes or Questions projects.
 *	In the Read view, the buttons are similar except that there are no “previous chunk” or “next chunk” buttons, since the Read view is not divided into chunks.
-
-Slider
-------
-
-The Slider icon is a quick way to move through a story or book of the Bible. 
-
-* Tap-and-hold the dot and drag it towards the bottom (right) or the top (left) of the slider. 
-
-* Numbers may appear on the line that represent the chapter of the book at that location of the slider.
    
 Resources
 ---------
@@ -165,19 +156,17 @@ Options Menu
 
 Tap the three dots icon at the bottom left (or right) of the screen to open the options menu. The Project screen and the *Your Translation Projects* screen (home screen) have two different menus.
 
-* On the *Your Translation Projects* screen the options menu includes the following options: 
+* On the *Your Translation Projects* screen (Home screen) the options menu includes the following options: 
 
-  * **Update**: Update source or target language files or the translationStudio app
+  * **Update**: Update source or target language files 
    
   * **Import**: Import a project or source text
    
   * **Feedback**: Report a bug 
    
-  * **Share this app**: Share with another tablet
-   
   * **Log Out**: Log out of the app so you can log in as a different user
    
-  * **Settings**: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  (See `Modifying Program Settings <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/tSettings.rst>`_)
+  * **Settings**: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  (See `Modifying Program Settings <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dSettings.rst>`_)
 
 * On the Project screen the options menu includes: 
 
@@ -190,6 +179,8 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
   * **Print**: Print out your work
   
   * **Feedback**: Same as on home screen 
+  
+  * **Search**: Search the project for occurences of a word or phrase in either the Source or the Target text
   
   * **Settings**: Same as on home screen 
   
