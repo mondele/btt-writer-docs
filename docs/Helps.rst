@@ -7,32 +7,32 @@ To help translators make the best translation possible, translationHelps have be
 
 The Resources include:
 
-translationWords 
+Words 
 ----------------
 
-The translationWords are important terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each translationWord has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too.
+The Words are important terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each Word has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too.
 See	https://unfoldingword.org/tw/
 
-translationQuestions
+Questions
 --------------------
 
-The translationQuestions are comprehension questions that can be used to check the translation. These questions can be asked of anyone checking the translation work. Can the Target Language translation be used to correctly answer each of the questions? Read the question, answer the question from the information in the translated text, look at the answer in the program. Do both of the answers match? If so, then the translation is clear and accurate.
+The Questions are comprehension questions that can be used to check the translation. These questions can be asked of anyone checking the translation work. Can the Target Language translation be used to correctly answer each of the questions? Read the question, answer the question from the information in the translated text, look at the answer in the program. Do both of the answers match? If so, then the translation is clear and accurate.
 
 For Open Bible Stories questions, see	https://door43.org/en/obs/notes/questions/home.
 
 For Bible questions, see	https://unfoldingword.org/tq/
 
-translationNotes
+Notes
 ----------------
 
-The translationNotes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of translation options available to them. See `Using the translationNotes`_ for more information.
+The Notes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of options available to them. See `Using the Notes`_ for more information.
 
 For Open Bible Story notes, see	https://door43.org/en/obs/notes.
 
 For Bible notes, see	https://unfoldingword.org/tn/.
 
 
-Using the translationNotes
+Using the Notes
 ---------------------------
 
 To Translate from the ULB
@@ -48,14 +48,14 @@ Read the ULB. Do you understand the meaning of the text so that you can accurate
       
       *	NO? Read the translation notes for help.
       
-Translation Notes are words or phrases copied from the ULB and then explained. In English, every note that explains the ULB starts with a bullet point, the ULB text in bold followed by a dash, and then translation suggestions or information for the translator. 
+Notes are words or phrases copied from the ULB and then explained. In English, every note that explains the ULB starts with a bullet point, the ULB text in bold followed by a dash, and then translation suggestions or information for the translator. 
 
 For example:
 
  *	**copied ULB text** - translation suggestion or information for the translator 
 
 
-There are many different types of notes in the Translation Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help translators make decisions on the best way to translate the Bible text into their language.
+There are many different types of notes in the Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help translators make decisions on the best way to translate the Bible text into their language.
 
 `Notes with Definitions`_ - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
 
@@ -89,7 +89,7 @@ Notes with Definitions
 
 Sometimes you may not know what a word in the ULB means. The notes may have a definition or a description of the word or phrase to help you understand what it means.
 
-**Translation Notes Examples**
+**Notes Examples**
 
 Simple definitions of words or phrases are added without quotes or sentence format. Here are examples:
 
@@ -124,7 +124,7 @@ Sometimes you may not know what a word or phrase in the ULB means. And sometimes
 
 These explanations are meant to help you understand the word or phrase. Do not translate the explanations into your Bible. Instead use them to help you understand the meanings so you can translate the Bible text correctly.
 
-**Translation Notes Examples**
+**Notes Examples**
 
 Simple explanations about words or phrases are written as full sentences. They begin with a capital letter and end with a period (".").
 
@@ -155,7 +155,7 @@ Notes with Synonyms and Equivalent Phrases
 
 Sometimes immediately after the bolded words and hyphen there is a phrase in double quotation marks. This phrase means the same as the bolded words from the ULB and it can replace it in your translation. It may clarify who or what a pronoun refers to, or it may use words that you understand better.
 
-**Translation Notes Examples**
+**Notes Examples**
 
   *Make ready the way of the Lord,* (Luke 3:4 ULB)
 
@@ -177,7 +177,7 @@ Notes with Alternate Translations (AT)
 An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should  be used only when the ULB form or content would give a wrong meaning or would be unclear or unnatural.
 The alternate translation suggestion may involve, for example, stating implicit information clearly, changing passive voice to active, or rewording rhetorical questions as statements. The notes often explain why there is an alternate translation and have a link to a page that explains the topic.
 
-**Translation Notes Examples**
+**Notes Examples**
 
 The "AT:" indicates that this is an alternate translation. Some examples are:
 
@@ -210,7 +210,7 @@ Notes That Include a Quote from the UDB
 
 There may not be a note if the Unlocked Dynamic Bible provides a good alternate translation for the ULB. However, on occasion a note may include text from the UDB as a suggested translation. In that case the text from the UDB will be followed by "(UDB)."
 
-**Translation Notes Examples**
+**Notes Examples**
 
   *they implored him to stay with them (John 4:40 ULB)*
 
@@ -238,7 +238,7 @@ The note will have the ULB text followed by an explanation starting with the wor
 
 The translator needs to decide which meaning to translate. Translators may choose the first meaning, or they may choose one of the other meanings if the people in their community use and respect another Bible version that has one of those other meanings.
 
-**Translation Notes Examples**
+**Notes Examples**
 
   *You are like a young lion among the nations, like a monster in the seas (Ezekiel 32:2 ULB)*
 
@@ -265,7 +265,7 @@ Sometimes Bible scholars do not know for sure, or do not agree on, what a partic
 
 * It may not be clear what a word (such as a pronoun) refers to in a particular phrase.
 
-**Translation Notes Examples**
+**Notes Examples**
 
 When many scholars say that a word or phrase means one thing, and many others say that it means other things, we show the most common
 meanings that they give. Our notes for these situations begin with "Possible meanings are" and then give a numbered list. We recommend that you use the first meaning given. However, if people in your community have access to another Bible that uses one of the other possible meanings, you may decide that it is better to use that meaning.
@@ -293,7 +293,7 @@ In the translationNotes there will be an explanation about the meaning of a figu
 
 In order to translate the meaning, you need to be able to recognize the figure of speech and know what it means in the source language. Then you can choose either a figure of speech or a direct way to communicate that same meaning in the target language.
 
-**Translation Notes Examples**
+**Notes Examples**
 
   *Many will come in my name and say, 'I am he,' and they will lead many astray. (Mark 13:6 ULB)*
 
@@ -318,7 +318,7 @@ When there is a direct or indirect quote in the ULB, the notes may have an optio
 
 There is a likely to be a note about direct and indirect quotes when a quote has another quote inside of it, because these can be confusing. In some languages it may be more natural to translate one of these quotes with a direct quote and the other quote with an indirect quote. The note will end with a link to the information page called "Quotes within Quotes."
 
-**Translation Notes Examples**
+**Notes Examples**
 
   *He instructed him to tell no one (Luke 5:14 ULB)*
 
@@ -339,7 +339,7 @@ Notes for Long ULB Phrases
 
 Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is explained first, and its parts afterward.
 
-**Translation Notes Examples**
+**Notes Examples**
 
   *But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)*
 
