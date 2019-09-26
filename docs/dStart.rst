@@ -1,17 +1,17 @@
-tS for Desktop: Starting a Translation Project 
+BTT Writer for the Desktop: Starting a Translation Project 
 =================================================
 
 
-.. image:: ../images/tSforDesktop.gif
+.. image:: ../images/BTTwriterDesktop.gif
     :width: 305px
     :align: center
     :height: 245px
-    :alt: translationStudio for Desktop
+    :alt: BTT Writer for the Desktop
 
 How do I select what to work on?
 --------------------------------
 
-When choosing what to work on, you need to consider several factors, such as the difficulty of the Bible book and the level of experience of the translators. Ultimately the local church decides what they want to work on. For more information read `Choosing What to Translate <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ChoosingWhatToTranslate.rst>`_.
+When choosing what to work on, you need to consider several factors, such as the difficulty of the Bible book and the level of experience of the translators. Ultimately the local church decides what they want to work on. For more information read `Choosing What to Translate <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ChoosingWhatToTranslate.rst>`_.
 
 How do I start a translation project?
 ------------------------------
@@ -26,7 +26,7 @@ The definition of a translation project consists of:
 
 To start a translation project, you must specify each of these elements.
 
-Begin by clicking the blue plus sign on the home screen to start defining a new project. When you first start using translationStudio,
+Begin by clicking the blue plus sign on the home screen to start defining a new project. When you first start using BTT Writer,
 there is also a green **Start a New Translation** button on the home screen that you can click to start a new project. (The Start a New Project button is available only if you have not previously created any projects.)
 
 
@@ -34,7 +34,7 @@ there is also a green **Start a New Translation** button on the home screen that
 How do I select the target language?
 --------------------------------------
 
-All translationStudio projects require a target language (the mother tongue language *into which* you will be translating). When you create a new project, the first step is selecting the target language, so translationStudio presents you with a language list that is alphabetical by the language code shown in the right column of the list.
+All translationStudio projects require a target language (the mother tongue language *into which* you will be translating). When you create a new project, the first step is selecting the target language, so BTT Writer presents you with a language list that is alphabetical by the language code shown in the right column of the list.
 
 To choose your target language (the one you will be translating to), you can either scroll down the language list to find the target language OR you can search for the target language. To search, perform the following steps:
 
@@ -51,7 +51,7 @@ The best way to submit a request is to send an email to help@door43.org. Another
 
 To use Feedback in the 3-dot options menu to request a new language:
 
-1. From any screen in translationStudio, click the 3-dot icon on the left or bottom.
+1. From any screen in BTT Writer, click the 3-dot icon on the left or bottom.
 
 2. In the list of options, click Feedback.
 
@@ -59,7 +59,7 @@ To use Feedback in the 3-dot options menu to request a new language:
 
 4. Click Confirm to send your request.
 
-**Note**: Even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the app, use English Demo1 or English Demo2. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the tS workers will put it in the correct language. Your translation will then show in your language.
+**Note**: Even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the app, use English Demo1 or English Demo2. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the support staff will put it in the correct language. Your translation will then show in your language.
     
 Can I change the target language of an existing project?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -78,7 +78,7 @@ When you create a new project, the next step is selecting the project category, 
 
 To designate what to work on for this project, complete the following steps:
 
-1.	Choose a project from the **Old Testament**, **New Testament**, or **Other** to start translating. (The Other category is for Open Bible Stories or translationWords.)
+1.	Choose a project from the **Old Testament**, **New Testament**, or **Other** to start translating. (The Other category is for Open Bible Stories or Words.)
 
 2.	The next step depends on the category you chose:
 
@@ -88,7 +88,7 @@ To designate what to work on for this project, complete the following steps:
  
       * If you are in Gateway Language Mode, you then also must select the type of translation – will you be translating text of either the ULB or UDB, or will you be translating Notes or Questions? (If translating Notes or Questions, you must first create a text project for the same target language/Bible book and then create a project for Notes or Questions.)
 
-  *	If you chose Other, you next choose to translate either Open Bible Stories, translationWords (these are from the Bible), or translationWords OBS (these are from Open Bible Stories). The last two types are available only in Gateway Language Mode (See *How do I set up to translate Bible resources?* in `translationStudio for the Desktop <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/desktop.rst>`_.)
+  *	If you chose Other, you next choose to translate either Open Bible Stories, Words (these are from the Bible), or Words OBS (these are from Open Bible Stories). The last two types are available only in Gateway Language Mode (See *How do I set up to translate Bible resources?* in `translationStudio for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.)
 
 How do I select or change the source text? 
 -----------------------------------------------------
