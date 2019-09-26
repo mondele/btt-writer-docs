@@ -75,6 +75,20 @@ Then for each note in the chunk you click the plus sign in the work area to crea
 **Notes project navigation**
 
 To navigate in a Notes project, use the navigation buttons at the left of the screen:
+
+* Up arrow with line above it: Go to the first chunk
+
+* Up arrow: Go to the previous chapter
+
+* Small solid up arrow: Go to the previous chunk
+
+* Text box: Type a number to go to the first chunk in that chapter
+
+* Small solid down arrow: Go to the next chunk
+
+* Down arrow: Go to the next chapter
+
+* Down arrow with a line under it: Go to the last chunk
  
 Working in a Questions project
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -136,34 +150,34 @@ The navigation buttons in a text project are different depending on the view:
 Resources
 ---------
 
-**Note**: Currently the resources are attached to the English ULB, so they are available in translationStudio only when the English ULB is used as the souce text.
+**Note**: Currently the resources are attached to the English ULB, so they are available in BTT Writer only when the English ULB is used as the souce text.
 
-All of the translationNotes, translationWords and translationQuestions are included in the translationStudio program. The resources are found in the far right pane of the Edit-Review view. To access that view, click the Edit-Review icon that looks like three vertical lines.
+All of the Notes, Words and Questions are included in the BTT Writer program. The resources are found in the far right pane of the Edit-Review view. To access that view, click the Edit-Review icon that looks like three vertical lines.
 
 The Resources pane is divided into four tabs: Notes, Words, Questions, and UDB. The UDB tab simply contains the UDB (Unlocked Dynamic Bible) text for the chunk.
 
 If there are no existing resources for a particular chunk, the resources pane is blank. If there are no resources of one of the types, then that tab does not exist on the resources pane. For example, if there are no Words for a chunk, then you would see only the Notes and Questions tabs on the Resources pane for that chunk.
 
-translationNotes
+Notes
 ^^^^^^^^^^^^^^^^
 
-Click the Notes tab for the translationNotes.
+Click the Notes tab.
   
 The words or phrases are listed as they appear in the story or in the ULB. Click the phrase for help in understanding how to translate into the target language. See Using the translationNotes for more information.
 
-translationWords
+Words
 ^^^^^^^^^^^^^^^^
 
-Click the Words tab for the translationWords. 
+Click the Words tab. 
   
 The words are listed as they appear in the story or in the ULB. Click the word or phrase for help in understanding how to translate the word into the target language.
 
-translationQuestions
+Questions
 ^^^^^^^^^^^^^^^^^^^^
 
-Click the Questions tab for the translationQuestions. 
+Click the Questions tab. 
  
-The questions are about information as it appears in the story or in the ULB. Read the question and answer it according to the translated text. Click the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
+The questions are about information as it appears in the story or in the ULB. Read the question and answer it according to the translated text. Click the question for the expected answer. If the given answer and the expected answer are the same, that is an indication that the translation may be clear and accurate. If they are not the same, examine the translation to see if you can improve the clarity and accuracy.
  
 Options Menu 
 ------------
