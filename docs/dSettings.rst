@@ -30,9 +30,9 @@ General Settings
 
 The General settings are as follows:
 
-1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See *How do I set up to translate Bible resources?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
+1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See *How do I set up to translate Bible resources?* in `BTT Writer for the Desktop: Getting Started <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
   
-2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See *How do I set up to translate the Bible or Open Bible Stories?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
+2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See *How do I set up to translate the Bible or Open Bible Stories?* in `BTT Writer for the Desktop: Getting Started <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
 
 3. **Target Translation Font**: The font of the translated text
 
