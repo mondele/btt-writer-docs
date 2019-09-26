@@ -13,7 +13,7 @@ BTT Writer for the Desktop enables translators to do offline translating of the 
 
 * For Gateway language translators to translate Bible resources from English to a gateway language
 
-The program contains the content that needs to be translated as well as translationHelps (See: `Using the translationHelps (Resources) <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Helps.rst>`_). You can share information directly from device to device, and you can upload finished content to Door43 where it can be digitally published.
+The program contains the content that needs to be translated as well as translationHelps (See: `Using the translationHelps (Resources) <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/Helps.rst>`_). You can share information directly from device to device, and you can upload finished content to server where it can be digitally published.
 
 Installation
 -------------
@@ -77,7 +77,7 @@ Login Options
 When BTT Writer first opens, you are presented with a request to create or log in to an account. 
 There are two types of accounts that you can use:
 
-* **Offline Account** – user has full use of the program except for uploading to Door43. You may want to start with an offline account and then switch to a Door43 account later when you want to upload your work (the work is attached to the device, not to the account).  
+* **Offline Account** – user has full use of the program except for uploading to the server. You may want to start with an offline account and then switch to a server account later when you want to upload your work (the work is attached to the device, not to the account).  
 
 * **Server Account** – user has full use of the program and can upload to the server (requires Internet connection.)
 
@@ -110,7 +110,7 @@ If you do not have a server account, but you wish to be able to use an Internet 
 
 3.	Click the **Email Address** line to enter your email address.
 
-4.	Enter your name or pseudonym in the **Login name** field. This is your Door43 user name that you will use to log in to Door43 and to the BTT Writer program. If you used a pseudonym in step (2) above, enter the same pseudonym here.
+4.	Enter your name or pseudonym in the **Login name** field. This is your user name that you will use to log in to the server and to the BTT Writer program. If you used a pseudonym in step (2) above, enter the same pseudonym here.
 
 5.	Enter a password in both fields. Click **Show Passwords** at the bottom of the screen to display the passwords.
 
