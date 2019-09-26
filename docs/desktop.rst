@@ -79,12 +79,12 @@ There are two types of accounts that you can use:
 
 * **Offline Account** – user has full use of the program except for uploading to Door43. You may want to start with an offline account and then switch to a Door43 account later when you want to upload your work (the work is attached to the device, not to the account).  
 
-* **Door43 Account** – user has full use of the program and can upload to Door43 (requires Internet connection.)
+* **Server Account** – user has full use of the program and can upload to the server (requires Internet connection.)
 
 Using an offline account
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you do not want to create a new Door43 account at this time or are not able to connect to the Internet, you can create an offline account:
+If you do not want to create a new server account at this time or are not able to connect to the Internet, you can create an offline account:
 
 1.	On the opening screen, click **Create offline Account**. The login screen opens.
 
@@ -94,17 +94,17 @@ If you do not want to create a new Door43 account at this time or are not able t
 
 4.	Tap **Continue** to acknowledge the privacy notice.
 
-Using an existing Door43 account
+Using an existing server account
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you are connected to the internet want to use an existing Door43 account, you can click **Login with Door43 account**. Enter your Door43 credentials to log in.
+If you are connected to the internet want to use an existing server account, you can click **Login to your Server account**. Enter your server credentials to log in.
 
-Creating a new Door43 account
+Creating a new server account
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you do not have a Door43 account, but you wish to be able to use an Internet connection to upload your work to Door43, you can create a Door43 account:
+If you do not have a server account, but you wish to be able to use an Internet connection to upload your work to the server, you can create a new server account:
 
-1.	Click **Create new Door43 Account** to create a new Door43 user account. The Door43 Account Creation window opens. (This requires an Internet connection.)
+1.	Click **Create a Server Account** to create a new server user account. The Server Account Creation window opens. (This requires an Internet connection.)
 
 2.	Click the **Your Name or Pseudonym** field and type your name or pseudonym into the field. This is the display name -- the name that will be listed as a contributor to any project files on this device. (Because names are publicly available, you may prefer to use a pseudonym. Make up any pseudonym of your choice.)
 
@@ -123,7 +123,7 @@ Logging Out
 
 You do not need to log out of the app before you close it. If you do not log out, when you reopen BTT Writer you will still be logged in.
 
-However, you may want to log out to change the logged-in user. For example, you may do your work offline with an offline account, but when you want to upload your work you need to use a Door43 account.
+However, you may want to log out to change the logged-in user. For example, you may do your work offline with an offline account, but when you want to upload your work you need to use a server account.
 
 At any time you can perform the following steps to access the initial screen to change login or translator settings:
 
