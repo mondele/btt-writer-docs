@@ -35,6 +35,20 @@ A Words project has two panes. The left pane contains the English word or term a
 **Words project navigation**
 
 You navigate in a Words project by using the navigation icons at the left:
+
+* Up arrow with line above it: Go to the first word
+
+* Up arrow: Go to the previous letter
+
+* Small solid up arrow: Go to the previous word
+
+* Text box: Type a number or letter to go to the first word in that section
+
+* Small solid down arrow: Go to the next word
+
+* Down arrow: Go to the next letter
+
+* Down arrow with a line under it: Go to the last word
  
 
 Working in a Notes project
