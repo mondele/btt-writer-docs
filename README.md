@@ -1,4 +1,4 @@
-# translationStudio Information
+# BTT Writer Information
 
 See https://btt-writer.readthedocs.io/en/latest/ for the documentation, this repo is the source files.
 
