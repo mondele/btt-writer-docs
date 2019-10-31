@@ -26,7 +26,7 @@ Installation
 
 7. Tap to open the App when installed.
 
-6.	Tap **ALLOW** to enable BTT Writer to access photos, media, and files on your device.
+8. Tap **ALLOW** to enable BTT Writer to access photos, media, and files on your device.
  
 There may be an automatic update before the BTT Writer app opens.
 
