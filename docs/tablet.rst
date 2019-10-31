@@ -12,15 +12,19 @@ The app BTT Writer for Android is a mobile app that enables offline translating.
 
 Installation
 ------------
-1.	Tap the Google Play Store icon on the Android device. Google Play Store opens.
+1. In the browser on the Android device, go to this URL: https://writer.bibletranslationtools.org/download/
  
-2.	In the search bar at the top of the screen, type **BTT Writer** and tap the magnifying glass on the keyboard.
+2. Tap on the white 'Download APK' button to download the install program to the tablet.
  
-3.	When the Play Store has found the program, tap the tS icon.
+3. Navigate to the Download folder on the tablet. 
  
-4.	Tap **Install**. The program downloads and then installs.
+4. Tap on the **release.apk** file.
  
-5.	Once the program is installed, tap **Open**.
+5. Open with the Android Package Installer.
+
+6. Agree to allow the program to be installed.
+
+7. Tap to open the App when installed.
 
 6.	Tap **ALLOW** to enable BTT Writer to access photos, media, and files on your device.
  
