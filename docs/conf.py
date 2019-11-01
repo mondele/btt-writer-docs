@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'translationStudio Information'
+project = u'BTT Writer Information'
 copyright = u'2018, Door43'
 author = u'Door43'
 
@@ -136,7 +136,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'translationStudio Information v0.1'
+# html_title = u'BTT Writer Information v0.1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -236,7 +236,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'translationStudio'
+htmlhelp_basename = 'BTTWriter'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -262,7 +262,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'translationStudio.tex', u'translationStudio Information',
+    (master_doc, 'BTTWriter.tex', u'BTT Writer Information',
      u'Door43', 'manual'),
 ]
 
@@ -304,7 +304,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'translationstudioinfo', u'translationStudio Information',
+    (master_doc, 'bttwriterinfo', u'BTT Writer Information',
      [author], 1)
 ]
 
@@ -319,8 +319,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'translationStudio', u'translationStudio Information',
-     author, 'translationStudio', 'A free offline translation tool for Bible translators.',
+    (master_doc, 'BTTWriter', u'BTT Writer Information',
+     author, 'BTTWriter', 'A free offline translation tool for Bible translators.',
      'Miscellaneous'),
 ]
 
