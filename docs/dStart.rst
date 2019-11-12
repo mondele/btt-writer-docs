@@ -3,9 +3,9 @@ BTT Writer for the Desktop: Starting a Translation Project
 
 
 .. image:: ../images/BTTwriterDesktop.gif
-    :width: 305px
+    :width: 180px
     :align: center
-    :height: 245px
+    :height: 200px
     :alt: BTT Writer for the Desktop
 
 How do I select what to work on?
