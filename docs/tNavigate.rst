@@ -10,7 +10,7 @@ BTT Writer for Android™: Performing Navigation
 Layout
 ------
 
-There are two screens in the translationStudio app: 
+There are two screens in the BTT Writer app: 
 
 *	The Home screen, or Your Translation Projects screen, shows any projects that have been created on the tablet. If there are no projects, the Home screen displays a welcome message. The Home screen also shows the user name and a Log out button.
 
@@ -97,7 +97,7 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
    
   * **Log Out**: Log out of the app so you can log in as a different user
    
-  * **Settings**: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  (See `Settings <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/tSettings.rst>`_)
+  * **Settings**: Adjust BTT Writer settings; view license agreement, statement of faith, or translation guidelines  (See `Settings <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/tSettings.rst>`_)
 
 * On the Project screen the options menu includes: 
 
