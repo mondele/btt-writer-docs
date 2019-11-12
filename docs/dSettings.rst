@@ -2,9 +2,9 @@ BTT Writer for the Desktop: Modifying Program Settings
 ==========================================================
 
 .. image:: ../images/BTTwriterDesktop.gif
-    :width: 205px
+    :width: 180px
     :align: center
-    :height: 165px
+    :height: 200px
     :alt: BTT Writer for the Desktop
 
 There are several settings for the BTT Writer program that you can view or modify. To open the settings window, click the 3-dot icon at the bottom left of the screen and click Settings on the menu.
