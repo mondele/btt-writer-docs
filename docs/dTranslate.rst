@@ -117,6 +117,6 @@ See `Translating translationQuestions for Gateway Languages Using BTT Writer for
 Recover Deleted Translation Text
 --------------------------------
 
-If you accidentally delete a large amount of work, send email to help@door43.org.
+If you accidentally delete a large amount of work, send email to helpdesk@techadvancement.com.
 
 
