@@ -31,7 +31,7 @@ You can create and edit translations of Open Bible Stories or books of the Bible
 Translate
 ^^^^^^^^^^^
 
-1.	For the initial translation, use Blind Edit Mode, which is organized to work with blind drafting. To use Blind Edit Mode, see `How do I set up to translate the Bible or Open Bible Stories? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-the-bible-or-open-bible-stories target="_blank">`_
+1.	For the initial translation, use Blind Edit Mode, which is organized to work with blind drafting. To use Blind Edit Mode, see `How do I set up to translate the Bible or Open Bible Stories? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-the-bible-or-open-bible-stories>`_
 
 2.	You may want to read `<https://bibleineverylanguage.org/processes/mast/>`_ to understand the steps of blind drafting translation.
 
@@ -43,7 +43,7 @@ Translate
 
 6.	When you are ready to begin translating, click the Blind Edit icon.
 
-    **Note**: This icon is available only if you are using Blind Edit Mode. See `BTT Writer for the Desktop: Modifying Program Settings <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dSettings.rst>`_.
+    **Note**: This icon is available only if you are using Blind Edit Mode. See `BTT Writer for the Desktop: Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.html>`_.
 
 7.	The Blind Edit view appears and displays the text divided into chunks, which are sections that you should be able to retell without looking. Read a chunk over until you can remember what it says. 
 
@@ -70,7 +70,7 @@ Use the Edit-Review view to edit existing work that you or another translator cr
 
 In the Edit-Review view the source text is on the left and the translation work is on the right. You can compare the two and then edit the translation to include all details in the source text. 
  
-In the Edit-Review view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. See *Resources* in `BTT Writer for the Desktop: Performing Navigation <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dNavigate.rst>`_ for more information.
+In the Edit-Review view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. See *Resources* in `BTT Writer for the Desktop: Performing Navigation <https://btt-writer.readthedocs.io/en/latest/dNavigate.html>`_ for more information.
 
 If you need to make changes in the translated text, perform the following steps:
 
@@ -97,12 +97,12 @@ At any time you can slide the toggle   back to the left, or just click it, to ed
 Working in a Resources Project
 ------------------------------
 
-If you are translating resources (translationNotes, translationWords, or translationQuestions), you must have created your project in Gateway Language Mode (see *How do I set up to translate Bible resources?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_ and *How do I select the project category?* in `BTT Writer for the Desktop: Starting a Translation Project <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dStart.rst>`_.
+If you are translating resources (translationNotes, translationWords, or translationQuestions), you must have created your project in Gateway Language Mode (see `How do I set up to translate Bible resources? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-bible-resources>`_ and `How do I select the project category? <https://btt-writer.readthedocs.io/en/latest/dStart.html#how-do-i-select-the-project-category>`_.
 
 Translating translationNotes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationNotes for Gateway Languages Using BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/translationNotes.rst>`_
+See `Translating translationNotes for Gateway Languages Using BTT Writer for the Desktop <https://btt-writer.readthedocs.io/en/latest/translationNotes.rst>`_
 
 Translating translationWords
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
