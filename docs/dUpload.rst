@@ -21,8 +21,7 @@ Upload to the Server
 
 This requires an Internet connection.
 
-This option copies your work to the online Wycliffe Associates or Door43 server, making it available to be downloaded by other translators, merged with other projects, or used as an online backup. The server to which you upload is specified in Settings 
-(see `Advanced Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.html#advanced-settings>`_).
+This option copies your work to the online Wycliffe Associates or Door43 server, making it available to be downloaded by other translators, merged with other projects, or used as an online backup. The server to which you upload is specified in the Server Suite setting (see `Advanced Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.html#advanced-settings>`_).
 
 You can upload to the content server only if you have an internet connection and are logged in to your server account.
 
