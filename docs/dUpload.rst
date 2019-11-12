@@ -1,4 +1,4 @@
-tS for Desktop: Uploading or Exporting Your Work 
+BTT Writer for the Desktop: Uploading or Exporting Your Work 
 ==========================================================
 
 .. image:: ../images/BTTwriterDesktop.gif
@@ -8,30 +8,30 @@ tS for Desktop: Uploading or Exporting Your Work
     :alt: BTT Writer for the Desktop
 
 
-When you work in translationStudio, your text is saved every five minutes to your computer. Your work is not saved to Door43 until you upload it.
+When you work in BTT Writer, your text is saved every five minutes to your computer. Your work is not saved to Door43 until you upload it.
 
-While you are in a project in translationStudio, click the 3-dot icon to access the options menu. Select Upload/Export (the upward arrow icon  ). 
+While you are in a project in BTT Writer, click the 3-dot icon to access the options menu. Select Upload/Export (the upward arrow icon  ). 
 
 **Note**: The upload/export option is not available in the 3-dot menu on the home screen, but is available only from the project screen.
  
-There are four options to choose from when exporting from translationStudio.
+There are four options to choose from when exporting from BTT Writer.
  
-Upload to Door43
-----------------
+Upload to the Server
+----------------------------
 
 This requires an Internet connection.
 
-This option copies your work to the online Door43 server, making it available to be downloaded by other translators, merged with other projects, or used as an online backup. You can upload to Door43 only if you have an internet connection and are logged in to a Door43 account.
+This option copies your work to the online Wycliffe Associates or Door43 server, making it available to be downloaded by other translators, merged with other projects, or used as an online backup. You can upload to the content server only if you have an internet connection and are logged in to your server account.
 
-Follow this process to upload to Door43:
+Follow this process to upload to the server:
 
 1.	When you are in a project, click the 3-dot menu.
 
-2.	Click the bar Upload to Door43.
+2.	Click the bar Upload to Server.
  
 3.	Wait while the upload process takes place.
  
-4.	If you are connected to the Internet and signed into a Door43 Account, you will receive an "Upload Complete" message. 
+4.	If you are connected to the Internet and signed into your server account, you will receive an "Upload Complete" message. 
  
   *	The message displays a link to the online repository of the file.
 
@@ -52,7 +52,7 @@ Follow this process to export, or save, the project to a usfm file:
 
 1.	Click the bar Export to USFM File. 
  
-2.	The computer's File Explorer window opens to the translationStudio folder. Using the file manager, navigate to the desired location on the computer to save the file. 
+2.	The computer's File Explorer window opens to the BTT Writer folder. Using the file manager, navigate to the desired location on the computer to save the file. 
  
 3.	Rename the file if desired. 
 
@@ -118,13 +118,13 @@ Follow this process to export, or save, the project to a pdf file:
 Export Project File
 --------------------
 
-This creates a file of your project with a tstudio extension. This can be used in any other translationStudio version 11 program for either Desktop or Android.
+This creates a file of your project with a tstudio extension. This can be used in any other BTT Writer version 11 program for either Desktop or Android.
 
 Follow this process to export, or save, the project to a tstudio file:
 
 1.	Click the bar Export Project File. 
  
-2.	The computer's File Explorer window opens to the backup folder for translationStudio. Using the file manager, navigate to the desired location on the computer to save the file. 
+2.	The computer's File Explorer window opens to the backup folder for BTT Writer. Using the file manager, navigate to the desired location on the computer to save the file. 
  
 3.	Click Save. A window displays a 'Project File Complete' message. 
  
