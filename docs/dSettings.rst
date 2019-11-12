@@ -97,7 +97,7 @@ Click **Legal** to view important legal information.
 
 These settings cannot be changed by the user; they are only for display.
 
-Advanced
+Advanced Settings
 ---------------------------------
 
 * **Server Suite (e.g. WACS or DCS)**: Specifies the content server where you can upload or import translations. Choose between the Wycliffe Associates Content Server (WACS) or the Door43 Content Server (DCS).
