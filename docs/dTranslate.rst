@@ -21,7 +21,7 @@ As you translate, be sure that you:
 
 *	Always do your translation according to the `Statement of Faith <https://bibleineverylanguage.org/statement-of-faith/>`_.
 
-*	Use the translationNotes and the translationWords (see `Translations <https://bibleineverylanguage.org/translations>`_ to help you make a better translation. These resources are also available within BTT Writer, in the Edit-Review view of the project.
+*	Use the translationNotes and the translationWords (see `Translations <https://bibleineverylanguage.org/translations>`_) to help you make a better translation. These resources are also available within BTT Writer, in the Edit-Review view of the project.
 
 Working in a Text Project
 ---------------------------
