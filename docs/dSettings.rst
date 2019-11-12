@@ -21,9 +21,7 @@ The Settings window enables personalization of the program. It also displays use
 
 3.	Legal
 
-4.	Upload
-
-5. Advanced
+4.	Advanced
 
 General Settings
 -----------------
@@ -96,16 +94,16 @@ Click **Legal** to view important legal information.
 
 *  **Attribution** - read this document to learn about the restrictions of using the derivative works and name branding.
 
-Upload Settings
------------------
 
 These settings cannot be changed by the user; they are only for display.
 
-* **Data Server**: The Door43 server
-
-* **Media Server**: The unfoldingWord server
-  
 Advanced
 ---------------------------------
+
+* **Server Suite (e.g. WACS or DCS)**: Specifies the content server where you can upload or import translations. Choose between the Wycliffe Associates Content Server (WACS) or the Door43 Content Server (DCS).
+
+* **Data Server**: The WACS or Door43 server, depending on what you choose for Server Suite. Don't change this value unless directed to do so by a support technician.
+
+* **Media Server**: The WACS or unfoldingWord media server, depending on what you choose for Server Suite. Don't change this value unless directed to do so by a support technician.
 
 * **Developer Tools**: You should not open developer tools unless directed to do so by a support technician.
