@@ -17,11 +17,11 @@ As you translate, be sure that you:
 
 *	Do not add anything that that is not necessary for comprehension.
 
-* Always do your translation according to the Translation Guidelines (see https://unfoldingword.org/guidelines/).
+*   Always do your translation according to the `Translation Guidelines <https://read.bibletranslationtools.org/u/WycliffeAssociates/en_tm/dc23f839f6/#translation-guidelines>`_.
 
-*	Always do your translation according to the Statement of Faith (see https://unfoldingword.org/faith/).
+*	Always do your translation according to the `Statement of Faith <https://bibleineverylanguage.org/statement-of-faith/>`_.
 
-*	Use the translationNotes (see https://unfoldingword.org/tn/) and the translationWords (see https://unfoldingword.org/tw/) to help you make a better translation. These resources are also available within BTT Writer, in the Edit-Review view of the project.
+*	Use the translationNotes and the translationWords (see `Translations <https://bibleineverylanguage.org/translations>`_ to help you make a better translation. These resources are also available within BTT Writer, in the Edit-Review view of the project.
 
 Working in a Text Project
 ---------------------------
@@ -43,7 +43,7 @@ Translate
 
 6.	When you are ready to begin translating, click the Blind Edit icon.
 
-    **Note**: This icon is available only if you are using Blind Edit Mode.
+    **Note**: This icon is available only if you are using Blind Edit Mode. See `BTT Writer for the Desktop: Modifying Program Settings <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dSettings.rst>`_.
 
 7.	The Blind Edit view appears and displays the text divided into chunks, which are sections that you should be able to retell without looking. Read a chunk over until you can remember what it says. 
 
@@ -88,7 +88,7 @@ If you need to make changes in the translated text, perform the following steps:
        
   * Continue until all verses are marked with a verse number.
 
-5.	When you are finished working, use the toggle   at the bottom of the chunk to mark the translation of that chunk done. Slide the toggle to the right, or just click it, to indicate that the chunk is finished.
+5.	When you are finished working, use the toggle at the bottom of the chunk to mark the translation of that chunk done. Slide the toggle to the right, or just click it, to indicate that the chunk is finished.
 
 6.	A message appears for you to confirm that the chunk is done. Click Confirm to indicate that the work is done, or click Cancel to continue editing.
 
