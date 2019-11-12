@@ -102,17 +102,17 @@ If you are translating resources (translationNotes, translationWords, or transla
 Translating translationNotes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationNotes for Gateway Languages Using BTT Writer for the Desktop <https://btt-writer.readthedocs.io/en/latest/translationNotes.html>`_
+See `Translating translationNotes for Gateway Languages Using BTT Writer <https://btt-writer.readthedocs.io/en/latest/translationNotes.html>`_
 
 Translating translationWords
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationWords for Gateway Languages Using BTT Writer for the Desktop <https://btt-writer.readthedocs.io/en/latest/translationWords.html>`_
+See `Translating translationWords for Gateway Languages Using BTT Writer <https://btt-writer.readthedocs.io/en/latest/translationWords.html>`_
 
 Translating translationQuestions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationQuestions for Gateway Languages Using BTT Writer for the Desktop <https://btt-writer.readthedocs.io/en/latest/translationQuestions.html>`_
+See `Translating translationQuestions for Gateway Languages Using BTT Writer <https://btt-writer.readthedocs.io/en/latest/translationQuestions.html>`_
 
 Recover Deleted Translation Text
 --------------------------------
