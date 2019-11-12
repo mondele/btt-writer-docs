@@ -1,4 +1,4 @@
-tS for Desktop: Performing Translation 
+BTT Writer for the Desktop: Performing Translation 
 ==========================================================
 
 .. image:: ../images/BTTwriterDesktop.gif
@@ -21,7 +21,7 @@ As you translate, be sure that you:
 
 *	Always do your translation according to the Statement of Faith (see https://unfoldingword.org/faith/).
 
-*	Use the translationNotes (see https://unfoldingword.org/tn/) and the translationWords (see https://unfoldingword.org/tw/) to help you make a better translation. These resources are also available within translationStudio, in the Edit-Review view of the project.
+*	Use the translationNotes (see https://unfoldingword.org/tn/) and the translationWords (see https://unfoldingword.org/tw/) to help you make a better translation. These resources are also available within BTT Writer, in the Edit-Review view of the project.
 
 Working in a Text Project
 ---------------------------
@@ -31,9 +31,9 @@ You can create and edit translations of Open Bible Stories or books of the Bible
 Translate
 ^^^^^^^^^^^
 
-1.	For the initial translation, use Blind Edit Mode, which is organized to work with blind drafting. To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `translationStudio for the Desktop <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/desktop.rst>`_
+1.	For the initial translation, use Blind Edit Mode, which is organized to work with blind drafting. To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_
 
-2.	You may want to read `MAST Core Concepts <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/MAST.rst>`_ to understand the steps of blind drafting translation.
+2.	You may want to read `<https://bibleineverylanguage.org/processes/mast/>`_ to understand the steps of blind drafting translation.
 
 3.	Open the project for the story or book that is being translated and click the Read view icon.
 
@@ -61,7 +61,7 @@ Translate
 
 11.	Continue doing this with each chunk of the chapter before moving to the checking steps.
 
-When you use translationStudio, your work is saved automatically every five minutes.
+When you use BTT Writer, your work is saved automatically every five minutes.
 
 Check and Edit Translated Text
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -70,7 +70,7 @@ Use the Edit-Review view to edit existing work that you or another translator cr
 
 In the Edit-Review view the source text is on the left and the translation work is on the right. You can compare the two and then edit the translation to include all details in the source text. 
  
-In the Edit-Review view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. See *Resources* in `tS for Desktop: Performing Navigation <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/dNavigate.rst>`_ for more information.
+In the Edit-Review view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. See *Resources* in `BTT Writer for the Desktop: Performing Navigation <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dNavigate.rst>`_ for more information.
 
 If you need to make changes in the translated text, perform the following steps:
 
@@ -97,22 +97,22 @@ At any time you can slide the toggle   back to the left, or just click it, to ed
 Working in a Resources Project
 ------------------------------
 
-If you are translating resources (translationNotes, translationWords, or translationQuestions), you must have created your project in Gateway Language Mode (see *How do I set up to translate Bible resources?* in `translationStudio for the Desktop <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/desktop.rst>`_ and *How do I select the project category?* in `tS for Desktop: Starting a Translation Project <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/dStart.rst>`_.
+If you are translating resources (translationNotes, translationWords, or translationQuestions), you must have created your project in Gateway Language Mode (see *How do I set up to translate Bible resources?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_ and *How do I select the project category?* in `BTT Writer for the Desktop: Starting a Translation Project <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dStart.rst>`_.
 
 Translating translationNotes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationNotes for Gateway Languages Using translationStudio – Desktop v11.1 <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/translationNotes.rst>`_
+See `Translating translationNotes for Gateway Languages Using BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/translationNotes.rst>`_
 
 Translating translationWords
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationWords for Gateway Languages Using translationStudio – Desktop v11.1 <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/translationWords.rst>`_
+See `Translating translationWords for Gateway Languages Using BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/translationWords.rst>`_
 
 Translating translationQuestions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationQuestions for Gateway Languages Using translationStudio – Desktop v11.1 <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/translationQuestions.rst>`_
+See `Translating translationQuestions for Gateway Languages Using BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/translationQuestions.rst>`_
 
 Recover Deleted Translation Text
 --------------------------------
