@@ -2,9 +2,9 @@ BTT Writer for the Desktop: Working with Footnotes
 ==========================================================
 
 .. image:: ../images/BTTwriterDesktop.gif
-    :width: 205px
+    :width: 180px
     :align: center
-    :height: 165px
+    :height: 200px
     :alt: BTT Writer for the Desktop
 
 
