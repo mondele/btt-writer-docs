@@ -21,7 +21,7 @@ Import from Server
 
 This requires an Internet connection.
 
-If you are logged into translationStudio with a server account, choosing this option opens a screen with a list of all your server online projects.
+If you are logged into BTT Writer with a server account (either WA's or Door43's content server), choosing this option opens a screen with a list of all your server online projects.
 
 You could also search for another user's project:
 
