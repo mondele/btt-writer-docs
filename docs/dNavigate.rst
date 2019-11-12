@@ -2,7 +2,7 @@ BTT Writer for the Desktop: Performing Navigation
 ========================================
 
 .. image:: ../images/BTTwriterDesktop.gif
-    :width: 305px
+    :width: 275px
     :align: center
     :height: 245px
     :alt: BTT Writer for the Desktop
