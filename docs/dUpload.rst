@@ -1,11 +1,11 @@
 tS for Desktop: Uploading or Exporting Your Work 
 ==========================================================
 
-.. image:: ../images/tSforDesktop.gif
-    :width: 205px
+.. image:: ../images/BTTwriterDesktop.gif
+    :width: 180px
     :align: center
-    :height: 165px
-    :alt: translationStudio for Desktop
+    :height: 200px
+    :alt: BTT Writer for the Desktop
 
 
 When you work in translationStudio, your text is saved every five minutes to your computer. Your work is not saved to Door43 until you upload it.
