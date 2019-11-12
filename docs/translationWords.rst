@@ -1,4 +1,4 @@
-Translating translationWords for Gateway Languages Using translationStudio – Desktop v11.1
+Translating translationWords for Gateway Languages Using BTT Writer
 ============================================================================================
 
 NOTE: These instructions assume that the Bible ULB Words project has been set up.
