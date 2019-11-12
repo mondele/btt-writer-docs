@@ -133,7 +133,7 @@ If you are not in blind edit mode, there are two views for a text project:
 
 **Blind Edit Mode**
 
-To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_
+To use Blind Edit Mode, see `How do I set up to translate the Bible or Open Bible Stories? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-the-bible-or-open-bible-stories>`_
 
 If you change the settings to Blind Edit Mode, a third view is available for text projects. You access this Blind Edit view by clicking the icon that looks like two sheets of paper. 
 
