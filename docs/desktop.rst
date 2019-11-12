@@ -75,7 +75,8 @@ Server Options
 ---------------
 
 BTT Writer enables you to upload your work to an online content server. By default, BTT Writer connects to the Wycliffe Associates
-Content Server (WACS). If you would rather upload to the Door43 Content Server (DCS), you can change the server in Settings. See 'BTT Writer for the Desktop: Modifying Program Settings <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dSettings.rst>'_.
+Content Server (WACS). If you would rather upload to the Door43 Content Server (DCS), you can change the server in Settings. See 
+`BTT Writer for the Desktop: Modifying Program Settings <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dSettings.rst>`_.
 
 Login Options
 -------------
