@@ -10,7 +10,7 @@ BTT Writer for the Desktop: Working with Footnotes
 
 A footnote is additional text that usually appears at the bottom of a book’s page and is referenced within the page.
 
-In translationStudio, a footnote is shown as a black page icon that you click to display the footnote. For example, there is a footnote in 1 Cor. 10:28.
+In BTT Writer, a footnote is shown as a black page icon that you click to display the footnote. For example, there is a footnote in 1 Cor. 10:28.
 
 Footnotes can provide further explanation when:
 
