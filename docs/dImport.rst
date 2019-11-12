@@ -129,7 +129,7 @@ The possible actions for dealing with importing duplicate projects are:
  
   * We recommend that you do not choose this option if you have previously uploaded the project to the server.
  
-  * If you run into difficulty you can always contact help@door43.org for help or submit a ticket using the following link: `<http://help.door43.org/en/topics/new>`_.
+  * If you run into difficulty you can always contact helpdesk@techadvancement.com for help or submit a ticket using the following link: `<https://www.techadvancement.com/submit-ticket/>`_.
   
 Merge Conflicts 
 ---------------
