@@ -107,12 +107,12 @@ See `Translating translationNotes for Gateway Languages Using BTT Writer for the
 Translating translationWords
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationWords for Gateway Languages Using BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/translationWords.rst>`_
+See `Translating translationWords for Gateway Languages Using BTT Writer for the Desktop <https://btt-writer.readthedocs.io/en/latest/translationWords.html>`_
 
 Translating translationQuestions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationQuestions for Gateway Languages Using BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/translationQuestions.rst>`_
+See `Translating translationQuestions for Gateway Languages Using BTT Writer for the Desktop <https://btt-writer.readthedocs.io/en/latest/translationQuestions.html>`_
 
 Recover Deleted Translation Text
 --------------------------------
