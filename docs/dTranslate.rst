@@ -102,7 +102,7 @@ If you are translating resources (translationNotes, translationWords, or transla
 Translating translationNotes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationNotes for Gateway Languages Using BTT Writer for the Desktop <https://btt-writer.readthedocs.io/en/latest/translationNotes.rst>`_
+See `Translating translationNotes for Gateway Languages Using BTT Writer for the Desktop <https://btt-writer.readthedocs.io/en/latest/translationNotes.html>`_
 
 Translating translationWords
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
