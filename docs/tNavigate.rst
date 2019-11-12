@@ -1,11 +1,11 @@
-tS for Android™: Performing Navigation 
+BTT Writer for Android™: Performing Navigation 
 ========================================
 
-.. image:: ../images/tSForAndroidWithAttr.gif
+.. image:: ../images/BTTwriterAndroid.gif
     :width: 305px
     :align: center
     :height: 245px
-    :alt: translationStudio for Android
+    :alt: BTT Writer for Android
     
 Layout
 ------
@@ -59,7 +59,7 @@ Resources
 
 When you are in the *Check view*, you have Bible resources available to you to assist in checking and refining the draft. Swipe from the right to the left side, or tap in the right margin, to show the resources for that chunk.
 
-The Resources pane is divided into three tabs. All of the translationNotes, translationWords, and translationQuestions are included in translationStudio. 
+The Resources pane is divided into three tabs. All of the translationNotes, translationWords, and translationQuestions are included in BTT Writer. 
 
 * Tap either Notes, Words, or Questions to navigate among the tabs. 
     
@@ -87,7 +87,7 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
 
 * On the *Your Translation Projects* screen the options menu includes the following options: 
 
-  * **Update**: Update source or target language files or the translationStudio app
+  * **Update**: Update source or target language files or the BTT Writer app
    
   * **Import**: Import a project or source text
    
