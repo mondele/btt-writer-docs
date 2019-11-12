@@ -11,7 +11,7 @@ BTT Writer for the Desktop: Starting a Translation Project
 How do I select what to work on?
 --------------------------------
 
-When choosing what to work on, you need to consider several factors, such as the difficulty of the Bible book and the level of experience of the translators. Ultimately the local church decides what they want to work on. For more information read `Choosing What to Translate <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ChoosingWhatToTranslate.rst>`_.
+When choosing what to work on, you need to consider several factors, such as the difficulty of the Bible book and the level of experience of the translators. Ultimately the local church decides what they want to work on. For more information read `Choosing What to Translate <https://btt-writer.readthedocs.io/en/latest/ChoosingWhatToTranslate.html>`_.
 
 How do I start a translation project?
 ------------------------------
@@ -47,7 +47,7 @@ What if I cannot find the desired target language?
 
 If you do not see your language in the list of target languages, first try alternate spellings, dialect names, and any variant names for your language. If you still can't find it, you can request that your language be added.
 
-The best way to submit a request is to send an email to help@door43.org. Another method is to use the Feedback option from the options menu to submit a Bug Report. In either case, please provide as much information as you can about the language, such as the local name of the language, any other names it is known by, approximate number of speakers, where it is spoken, any similar languages, any published works in that language, etc.
+The best way to submit a request is to send an email to helpdesk@techadvancement.com. Another method is to use the Feedback option from the options menu to submit a Bug Report. In either case, please provide as much information as you can about the language, such as the local name of the language, any other names it is known by, approximate number of speakers, where it is spoken, any similar languages, any published works in that language, etc.
 
 To use Feedback in the 3-dot options menu to request a new language:
 
