@@ -1,4 +1,4 @@
-tS for Desktop: Publishing Content 
+BTT Writer for the Desktop: Publishing Content 
 ==========================================================
 
 .. image:: ../images/BTTwriterDesktop.gif
@@ -10,9 +10,9 @@ tS for Desktop: Publishing Content
 Self-Publishing
 ---------------
 
-When you upload your work to Door43 it is automatically available online under your user account. This is referred to as self-publishing. You can upload to Door43 as often as you wish to create a backup of your work. (See `Upload/Export Your Work <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/dUpload.rst>`_.) 
+When you upload your work to Door43 it is automatically available online under your user account. This is referred to as self-publishing. You can upload to Door43 as often as you wish to create a backup of your work. (See `Upload/Export Your Work <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/dUpload.rst>`_.) 
 
-You can access a web version of your project at http://door43.org/u/user_name/project_name (where user_name is your user name and project_name is your translation project). The translationStudio app gives you the correct link when you upload. You can also browse all works on http://door43.org.
+You can access a web version of your project at http://door43.org/u/user_name/project_name (where user_name is your user name and project_name is your translation project). BTT Writer gives you the correct link when you upload. You can also browse all works on http://door43.org.
 
 From your Door43 project page you can:
 
@@ -42,9 +42,9 @@ Before a Gateway Language translation can become a source text, the following pr
 
 *	Agreements - Everyone involved in the translation and checking must have agreed to the Statement of Faith, the Translation Guidelines, and the Open License. This can be done either by creating Door43 accounts or by physically signing the documents and digitizing them (scanning or photos). See http://ufw.io/forms for downloadable agreement forms.
 
-You can use translationStudio to ensure that the project is complete and that all contributors are listed. You can perform project review by completing the following steps to publish your work:
+You can use BTT Writer to ensure that the project is complete and that all contributors are listed. You can perform project review by completing the following steps to publish your work:
 
-1.	In translationStudio, load your project.
+1.	In BTT Writer, load your project.
 
 2.	Click the 3-dot icon to access the options menu.
 
@@ -97,7 +97,7 @@ When the Request to Publish is approved, the text is made available on unfolding
 
 **Can Text Be Changed After Level 3 Checking?**
 
-Approved text can always be modified in translationStudio even after all checking levels are completed, HOWEVER if you or another user were to submit a Request to Publish for text that has already completed Level 3 checking, there would be questions regarding the reason for overwriting the previously published and checked materials. The approver will look to see who contributed to the change and may contact the requestor and others involved with the translation of the text in question to ensure the changes are valid.
+Approved text can always be modified in BTT Writer even after all checking levels are completed, HOWEVER if you or another user were to submit a Request to Publish for text that has already completed Level 3 checking, there would be questions regarding the reason for overwriting the previously published and checked materials. The approver will look to see who contributed to the change and may contact the requestor and others involved with the translation of the text in question to ensure the changes are valid.
 
 **Must All Contributors Be Named?**
 
