@@ -100,7 +100,8 @@ These settings cannot be changed by the user; they are only for display.
 Advanced Settings
 ---------------------------------
 
-* **Server Suite (e.g. WACS or DCS)**: Specifies the content server where you can upload or import translations. Choose between the Wycliffe Associates Content Server (WACS) or the Door43 Content Server (DCS). Changing this setting also automatically changes the values for the next 2 settings shown below. **Note**: If you change this setting, you are prompted to close and reopen the BTT Writer program.
+* **Server Suite (e.g. WACS or DCS)**: Specifies the content server where you can upload or import translations. Choose between the Wycliffe Associates Content Server (WACS) or the Door43 Content Server (DCS). Changing this setting also automatically changes the values for the next 2 settings shown below. 
+**Note**: If you change this setting, you are prompted to close and reopen the BTT Writer program.
 
 * **Data Server**: The WACS or Door43 server, depending on what you choose for Server Suite. Don't change this value unless directed to do so by a support technician.
 
