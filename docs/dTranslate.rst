@@ -70,7 +70,7 @@ Use the Edit-Review view to edit existing work that you or another translator cr
 
 In the Edit-Review view the source text is on the left and the translation work is on the right. You can compare the two and then edit the translation to include all details in the source text. 
  
-In the Edit-Review view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. See *Resources* in `BTT Writer for the Desktop: Performing Navigation <https://btt-writer.readthedocs.io/en/latest/dNavigate.html>`_ for more information.
+In the Edit-Review view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. See `Resources <https://btt-writer.readthedocs.io/en/latest/dNavigate.html#resources>`_ for more information.
 
 If you need to make changes in the translated text, perform the following steps:
 
