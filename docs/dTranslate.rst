@@ -31,7 +31,7 @@ You can create and edit translations of Open Bible Stories or books of the Bible
 Translate
 ^^^^^^^^^^^
 
-1.	For the initial translation, use Blind Edit Mode, which is organized to work with blind drafting. To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_
+1.	For the initial translation, use Blind Edit Mode, which is organized to work with blind drafting. To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.html>`_
 
 2.	You may want to read `<https://bibleineverylanguage.org/processes/mast/>`_ to understand the steps of blind drafting translation.
 
