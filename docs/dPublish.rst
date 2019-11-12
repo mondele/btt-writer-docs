@@ -1,11 +1,11 @@
 tS for Desktop: Publishing Content 
 ==========================================================
 
-.. image:: ../images/tSforDesktop.gif
-    :width: 305px
+.. image:: ../images/BTTwriterDesktop.gif
+    :width: 180px
     :align: center
-    :height: 245px
-    :alt: translationStudio for Desktop
+    :height: 200px
+    :alt: BTT Writer for the Desktop
 
 Self-Publishing
 ---------------
