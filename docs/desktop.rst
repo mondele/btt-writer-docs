@@ -76,9 +76,7 @@ Complete these steps to open BTT Writer:
 Server Options
 ---------------
 
-BTT Writer enables you to upload your work to an online content server. By default, BTT Writer connects to the Wycliffe Associates
-Content Server (WACS). If you would rather upload to the Door43 Content Server (DCS), you can change the server in Settings. See 
-`BTT Writer for the Desktop: Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.html>`_.
+BTT Writer enables you to upload your work to and import projects from an online content server. By default, BTT Writer connects to the Wycliffe Associates Content Server (WACS). If you would rather upload to the Door43 Content Server (DCS), you can change the server in Settings. See `BTT Writer for the Desktop: Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.html>`_.
 
 Login Options
 -------------
@@ -86,9 +84,9 @@ Login Options
 When BTT Writer first opens, you are presented with a request to create or log in to an account. 
 There are two types of accounts that you can use:
 
-* **Offline Account** – user has full use of the program except for uploading to the server. You may want to start with an offline account and then switch to a server account later when you want to upload your work (the work is attached to the device, not to the account).  
+* **Offline Account** – user has full use of the program except for uploading to and importing from the server. You may want to start with an offline account and then switch to a server account later when you want to upload your work (the work is attached to the device, not to the account).  
 
-* **Server Account** – user has full use of the program and can upload to the server (requires Internet connection.)
+* **Server Account** – user has full use of the program and can upload to and import from the server (requires Internet connection.)
 
 Using an offline account
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -144,12 +142,12 @@ At any time you can perform the following steps to access the initial screen to 
 
 OR
   
-  *	Click **Logout** at the top right of the screen next to the user name.
+  *	Click **Logout** at the top of the screen next to the user name.
 
 Agreeing to Terms of Use
 -------------------------------
 
-After you have logged in for the first time, BTT Writer displays the Terms of Use. Read and agree with each of the statements in the Terms of Use by performing the following steps:
+After you log in, BTT Writer displays the Terms of Use. Read and agree with each of the statements in the Terms of Use by performing the following steps:
 
 1.	Click each statement.
  
