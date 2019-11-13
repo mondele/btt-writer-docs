@@ -8,7 +8,9 @@ BTT Writer for the Desktop: Uploading or Exporting Your Work
     :alt: BTT Writer for the Desktop
 
 
-When you work in BTT Writer, your text is saved every five minutes to your computer. Your work is not saved to the server (WACS or Door43) until you explicitly upload it.
+When you work in BTT Writer, your text is saved every five minutes to your computer. Your work is not saved to the server (WACS or DCS) until you explicitly upload it.
+
+**Note**: Your connection to either WACS or DCS is determined by the value of Server Suite in your settings. See `BTT Writer for the Desktop: Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.html#advanced-settings>`_
 
 While you are in a project in BTT Writer, click the 3-dot icon to access the options menu. Select Upload/Export (the upward arrow icon  ). 
 
