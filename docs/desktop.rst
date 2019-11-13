@@ -20,9 +20,11 @@ Installation
 
 This process requires an Internet connection.
 
-  1. Go to: https://github.com/unfoldingWord-dev/ts-desktop/releases/tag/11.1
+  1. Go to: https://writer.bibletranslationtools.org/download/
 
-  2. Click the appropriate file for your computer:
+  2. Click Desktop Download.
+  
+  3. Click the appropriate file for your computer:
 
     * The file with “linux” in the name is for a Linux operating system.
 
@@ -34,27 +36,27 @@ This process requires an Internet connection.
     
       (To determine if your Windows PC is a 32-bit or a 64-bit operating system, open the Control Panel and click System.)
 
-  3. Designate where you want to save the file.
+  4. Designate where you want to save the file.
  
-  4. Allow the file to download to the computer. 
+  5. Allow the file to download to the computer. 
 
-  5. Double-click the file name to start the install.
+  6. Double-click the file name to start the install.
  
-  6. Click Run or Yes on the Warning message window and any other warning messages. 
+  7. Click Run or Yes on the Warning message window and any other warning messages (or click More Info --> Run Anyway). 
  
-  7. Choose the language that will be used during the installation from the dropdown menu.
+  8. Choose the language that will be used during the installation from the dropdown menu.
  
-  8. Click Next on the 'Welcome to the translationStudio Setup Wizard' window.
+  9. Click Next on the 'Welcome to the translationStudio Setup Wizard' window.
  
-  9. Select the I accept the agreement radio button for the software license. Click Next.
+  10. Select the "I accept the agreement" radio button for the software license. Click Next.
  
-  10. Select the choice to 'create a desktop icon' if you wish. Click Next.
+  11. Select the choice to 'create a desktop icon' if you wish. Click Next.
  
-  11. Click Install. 
+  12. Click Install. 
  
-  12. Please wait for the program to be installed.  This may take several minutes. The installer installs translationStudio and Git, which is a version control system.
+  13. Please wait for the program to be installed.  This may take several minutes. The installer installs translationStudio and Git, which is a version control system.
  
-  13. At the *Completing the translationStudio Setup Wizard* window, click Finish to complete the installation.
+  14. At the *Completing the translationStudio Setup Wizard* window, click Finish to complete the installation.
   
 Opening BTT Writer
 ---------------------------------------------------
