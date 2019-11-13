@@ -77,22 +77,5 @@ Select **Update List of Available Source Texts** from the Update menu to update 
 
 A progress window opens. At the end of the process a message shows how many new target languages were added. Click **CLOSE** to return to the Home screen.
 
-Checking for Updates to translationStudio
------------------------------------------
 
-Select **Check for Updates to translationStudio** from the Update menu to open the Internet web page with the latest translationStudio-Desktop release. If there is a release later than the version you have installed, you may wish to update:
-
-1.	Close translationStudio.
-
-2.	On the web page in your browser click the appropriate version for your platform to download the installer:
-
-    * File ending in “linux_x64.zip” is for Linux
-
-    * File ending in “osx_x64.zip is for Mac
-
-    * File ending in “win_x32.exe” is for 32-bit Windows (older machines)
-
-    * File ending in “win_x64.exe” is for 64-bit Windows
-    
-3.	Navigate to the downloaded file and double-click to install the program. For more detailed information, see `Installation <https://ts-info.readthedocs.io/en/latest/desktop.html#installation>`_.
 
