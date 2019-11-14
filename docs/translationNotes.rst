@@ -1,4 +1,4 @@
-Translating translationNotes for Gateway Languages Using BTT Writer
+Translating Translation Notes for Gateway Languages Using BTT Writer
 ==========================================================================================
 
 **NOTE**: These instructions assume that the Bible ULB text project and the Bible ULB Notes project have been previously set-up and that the Gateway Language check box is checked in Settings.
