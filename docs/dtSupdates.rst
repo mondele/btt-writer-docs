@@ -11,8 +11,6 @@ The options are:
 
 * Update List of Available Target Languages
 
-* Check for Updates to translationStudio
-
 Updating Source Text Lists
 ---------------------------
 
@@ -32,13 +30,13 @@ Downloading Available Source Texts
 When you choose **Download Available Source Texts** from the Update menu, you have a choice to look at the source texts in one of two ways: 
 
 * By Language – this choice enables you to download multiple books at once for a single language. If you choose to view by language and select a language, only the books that are available for that language are shown. Other books may become available as more source texts get translated and checked.
-**NOTE**: That the choice of 'By Language' also allows the downloading of the translationWords and OBS resources.
+**NOTE**: The choice of 'By Language' also enables the downloading of the translationWords and OBS resources.
  
   1.	Type the language name in the search box or scroll to the desired language.
 
   2.	Click the language to select it (if you click a language by mistake, click the back arrow next to the language to return to the language list.)
  
-  3.	On the Choose Category list, click to select a category. Some languages have more or fewer categories, depending on what source texts are available. The Category of 'Other' contains the translationWords, OBS Notes, OBS source, OBS translationWords. (The best choice is to choose the translationWords.)
+  3.	On the Choose Category list, click to select a category. Some languages have more or fewer categories, depending on what source texts are available. The Category of 'Other' contains the translationWords (bible), OBS source, and OBS translationWords. (The best choice is to choose the translationWords (bible).)
  
   4.	Click the check box next to the source text(s) you wish to download, and then click Download.
  
@@ -56,13 +54,9 @@ When you choose **Download Available Source Texts** from the Update menu, you ha
      
      * New Testament: Opens a list of New Testament books
 
-     * Other
+     * Other: Enables you to download translationWords (bible)
 
-       * Open Bible Stories
-       * translationWords
-       * translationWords OBS
-
-  2.	Once you have selected a book category, a list of available source texts opens. Select one or more source texts and click Download.
+  2.	Once you have selected a book category, a list of available languagess opens. Select one or more languages and click Download.
  
   3.	The selected text(s) download (this may take a few minutes) and then you should receive a success message. Click Close.
 
@@ -73,7 +67,7 @@ When you choose **Download Available Source Texts** from the Update menu, you ha
 Updating List of Available Target Languages
 -------------------------------------------
 
-Select **Update List of Available Source Texts** from the Update menu to update the list of all the target languages available in the program. 
+Select **Update List of Available Target Languages** from the Update menu to update the list of all the target languages available in the program. 
 
 A progress window opens. At the end of the process a message shows how many new target languages were added. Click **CLOSE** to return to the Home screen.
 
