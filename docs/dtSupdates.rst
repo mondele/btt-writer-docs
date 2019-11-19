@@ -48,19 +48,19 @@ When you choose **Download Available Source Texts** from the Update menu, you ha
 
 * By Book – this choice enables you to download multiple languages at once for a single book. If you choose to view by book, only the languages for which that book is available are shown. Other books may become available as more source texts get translated and checked.
 
-    1.	Click to select a category.  The possible categories are:
+1.	Click to select a category.  The possible categories are:
  
-       * Old Testament: Opens a list of Old Testament books
+* Old Testament: Opens a list of Old Testament books
      
-       * New Testament: Opens a list of New Testament books
+* New Testament: Opens a list of New Testament books
 
-       * Other: Enables you to download translationWords (bible)
+* Other: Enables you to download translationWords (bible)
 
-    2.	Once you have selected a book category, a list of available languagess opens. Select one or more languages and click Download.
+2.	Once you have selected a book category, a list of available languagess opens. Select one or more languages and click Download.
  
-    3.	The selected text(s) download (this may take a few minutes) and then you should receive a success message. Click Close.
+3.	The selected text(s) download (this may take a few minutes) and then you should receive a success message. Click Close.
 
-    4.	The downloaded texts have a green check mark next to the name on the Source list.
+4.	The downloaded texts have a green check mark next to the name on the Source list.
  
 **Note**: You may receive an unsuccessful message. One or more choices have a red x next to the name. This source text was not downloaded. You may try again to download the texts that were not successfully downloaded.
 
