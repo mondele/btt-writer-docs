@@ -47,6 +47,7 @@ When you choose **Download Available Source Texts** from the Update menu, you ha
 **Note**: You may receive an unsuccessful message. One or more choices have a red x next to the name. This source text was not downloaded. You may try again to download the texts that were not successfully downloaded.
 
 * By Book – this choice enables you to download multiple languages at once for a single book. If you choose to view by book, only the languages for which that book is available are shown. Other books may become available as more source texts get translated and checked.
+**NOTE**: The choice of 'By Book' also enables the downloading of the translationWords (bible).
 
   #.	Click to select a category.  The possible categories are:
    
