@@ -59,28 +59,28 @@ There are many different types of notes in the Notes. Each type of note gives th
 
 `Notes with Definitions`_ - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
 
-`Notes that Explain <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-explain>`_ - Simple explanations about words or phrases are in sentence format.
+`Notes that Explain`_ - Simple explanations about words or phrases are in sentence format.
 
 Suggested Translations
 ^^^^^^^^^^^^^^^^^^^^^^
 
 There are several types of suggested translations.
 
-`Notes with Synonyms and Equivalent Phrases <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-with-synonyms-and-equivalent-phrases>`_ - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
+`Notes with Synonyms and Equivalent Phrases`_ - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
 
-`Notes with Alternate Translations (AT) <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-with-alternate-translations-at>`_ - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
+`Notes with Alternate Translations (AT)`_ - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
 
-`Notes that Include a Quote from the UDB <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-include-a-quote-from-the-udb>`_ - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
+`Notes that Include a Quote from the UDB`_ - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
 
-`Notes that have Alternate Meanings <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-have-alternate-meanings>`_ - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means.
+`Notes that have Alternate Meanings`_ - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means.
 
-`Notes with Possible Meanings <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-with-possible-meanings>`_ - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase.
+`Notes with Possible Meanings`_ - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase.
 
-`Notes that Identify Figures of Speech <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-identify-figures-of-speech>`_ - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage.
+`Notes that Identify Figures of Speech`_ - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage.
 
-`Notes that Identify Indirect and Direct Quotes <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-identify-indirect-and-direct-quotes>`_ - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
+`Notes that Identify Indirect and Direct Quotes`_ - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
 
-`Notes for Long ULB Phrases <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-for-long-ulb-phrases>`_ - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
+`Notes for Long ULB Phrases`_ - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
 
 Notes with Definitions
 ^^^^^^^^^^^^^^^^^^^^^^
