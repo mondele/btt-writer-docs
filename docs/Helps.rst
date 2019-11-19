@@ -11,25 +11,25 @@ Words
 ----------------
 
 The Words are important terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each Word has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too.
-See	https://unfoldingword.org/tw/
+See	https://door43.org/u/WycliffeAssociates/en_tw/3658b148b2/
 
 Questions
 --------------------
 
 The Questions are comprehension questions that can be used to check the translation. These questions can be asked of anyone checking the translation work. Can the Target Language translation be used to correctly answer each of the questions? Read the question, answer the question from the information in the translated text, look at the answer in the program. Do both of the answers match? If so, then the translation is clear and accurate.
 
-For Open Bible Stories questions, see	https://door43.org/en/obs/notes/questions/home.
+To download Open Bible Stories questions, click	https://cdn.door43.org/en/sq/v1/obs.zip.
 
-For Bible questions, see	https://unfoldingword.org/tq/
+For Bible questions, see	https://door43.org/u/WycliffeAssociates/en_tq/8b448b8eca/
 
 Notes
 ----------------
 
 The Notes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of options available to them. See `Using the Notes`_ for more information.
 
-For Open Bible Story notes, see	https://door43.org/en/obs/notes.
+To download Open Bible Story notes, see	https://cdn.door43.org/en/sn/v1/obs.zip.
 
-For Bible notes, see	https://unfoldingword.org/tn/.
+For Bible notes, see	https://bibleineverylanguage.org/translations/ and select the Bible book under ULB Translation Notes.
 
 
 Using the Notes
