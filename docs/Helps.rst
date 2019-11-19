@@ -57,30 +57,30 @@ For example:
 
 There are many different types of notes in the Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help translators make decisions on the best way to translate the Bible text into their language.
 
-`Notes with Definitions`_ - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
+`Notes with Definitions <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-with-definitions>`_ - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
 
-`Notes that Explain`_ - Simple explanations about words or phrases are in sentence format.
+`Notes that Explain <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-explain>`_ - Simple explanations about words or phrases are in sentence format.
 
 Suggested Translations
 ^^^^^^^^^^^^^^^^^^^^^^
 
 There are several types of suggested translations.
 
-`Notes with Synonyms and Equivalent Phrases`_ - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
+`Notes with Synonyms and Equivalent Phrases <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-with-synonyms-and-equivalent-phrases>`_ - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
 
-`Notes with Alternate Translations (AT)`_ - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
+`Notes with Alternate Translations (AT) <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-with-alternate-translations-at>`_ - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
 
-`Notes that Include a Quote from the UDB`_ - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
+`Notes that Include a Quote from the UDB <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-include-a-quote-from-the-udb>`_ - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
 
-`Notes that have Alternate Meanings`_ - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means.
+`Notes that have Alternate Meanings <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-have-alternate-meanings>`_ - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means.
 
-`Notes with Possible Meanings`_ - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase.
+`Notes with Possible Meanings <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-with-possible-meanings>`_ - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase.
 
-`Notes that Identify Figures of Speech`_ - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage.
+`Notes that Identify Figures of Speech <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-identify-figures-of-speech>`_ - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage.
 
-`Notes that Identify Indirect and Direct Quotes`_ - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
+`Notes that Identify Indirect and Direct Quotes <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-identify-indirect-and-direct-quotes>`_ - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
 
-`Notes for Long ULB Phrases`_ - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
+`Notes for Long ULB Phrases <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-for-long-ulb-phrases>`_ - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
 
 Notes with Definitions
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -113,7 +113,7 @@ Simple definitions of words or phrases are added without quotes or sentence form
 
 **Translation Strategies**
 
-See `Translate Unknowns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/TranslateUnkowns.rst>`_ for more information on translating words or phrases that are not known in your language.
+See `Translate Unknowns <https://btt-writer.readthedocs.io/en/latest/TranslateUnkowns.html>`_ for more information on translating words or phrases that are not known in your language.
 
 Notes that Explain
 ^^^^^^^^^^^^^^^^^^
@@ -185,7 +185,7 @@ The "AT:" indicates that this is an alternate translation. Some examples are:
 
   *it is the law of the Medes and Persians, that no decree or statute that the king issues can be changed.* (Daniel 6:15 ULB)
 
-  * **no decree...can be changed** - An additional sentence may be added here to aid in understanding. AT: "no decree...can be changed. So they must throw Daniel into the pit of lions." (See: `Assumed Knowledge and Implicit Information <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/AssumedKnowledge.rst>`_)
+  * **no decree...can be changed** - An additional sentence may be added here to aid in understanding. AT: "no decree...can be changed. So they must throw Daniel into the pit of lions." (See: `Assumed Knowledge and Implicit Information <https://btt-writer.readthedocs.io/en/latest/AssumedKnowledge.html>`_)
 
     The additional sentence shows what the speaker wanted the king to understand from his reminder that the king's decrees and statutes cannot be changed. Translators may need to state some things clearly in the translation that the original speaker or writer left unstated or implicit.
 
@@ -193,7 +193,7 @@ The "AT:" indicates that this is an alternate translation. Some examples are:
 
   *to him who blasphemes against the Holy Spirit, it will not be forgiven.* (Luke 12:10 ULB)
 
-    * **it will not be forgiven** - This can be expressed with an active verb. AT: God will not forgive him. This can also be expressed in a positive way using a verb that means the opposite of "forgive." AT: "God will consider him guilty forever" (See: `Active or Passive <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/ActiveOrPassive.rst>`_)
+    * **it will not be forgiven** - This can be expressed with an active verb. AT: God will not forgive him. This can also be expressed in a positive way using a verb that means the opposite of "forgive." AT: "God will consider him guilty forever" (See: `Active or Passive <https://btt-writer.readthedocs.io/en/latest/ActiveOrPassive.html>`_)
 
       Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible.
 
@@ -201,7 +201,7 @@ The "AT:" indicates that this is an alternate translation. Some examples are:
 
   *Saul, Saul, why are you persecuting me? (Acts 9:4 ULB)**
 
-    * **why are you persecuting me?** - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/Rhetorical.rst>`_)
+    * **why are you persecuting me?** - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://btt-writer.readthedocs.io/en/latest/.html>`_)
 
 Notes That Include a Quote from the UDB
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -297,13 +297,13 @@ In order to translate the meaning, you need to be able to recognize the figure o
 
   *Many will come in my name and say, 'I am he,' and they will lead many astray. (Mark 13:6 ULB)*
 
-    * **Many will come in my name** - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: `Metonymy <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/Metonymy.rst>`_)
+    * **Many will come in my name** - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: `Metonymy <https://btt-writer.readthedocs.io/en/latest//Metonymy.html>`_)
 
       The figure of speech in this note is metonymy. The note explains the metonymy in this passage and gives an alternate translation. After that, there is a link to the tA page about metonymy. Click on the link to learn about metonymy and general strategies for translating metonymys.
 
   *You offspring of poisonous snakes, who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)*
 
-    * **You offspring of poisonous snakes** - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: `Metaphor <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/Metaphor.rst>`_)
+    * **You offspring of poisonous snakes** - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: `Metaphor <https://btt-writer.readthedocs.io/en/latest/Metaphor.html>`_)
 
       The figure of speech in this note is metaphor. The note explains the metaphor and gives two alternate translations. After that, there is a link to the tA page about metaphors. Click on the link to learn about metaphors and general strategies for translating them.
 
@@ -312,7 +312,7 @@ Notes That Identify Indirect and Direct Quotes
 
 **Description**
 
-There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation. (See: `Direct and Indirect Quotations <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/DirectIndirectQuotations.rst>`_)
+There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation. (See: `Direct and Indirect Quotations <https://btt-writer.readthedocs.io/en/latest/DirectIndirectQuotations.html>`_)
 
 When there is a direct or indirect quote in the ULB, the notes may have an option for translating it as the other kind of quote. The translation suggestion may start with "It can be translated as a direct quote:" or "It can be translated as an indirect quote:" and it will be followed by that kind of quote. This may be followed by a link to the information page called "Direct and Indirect Quotations."
 
@@ -322,13 +322,13 @@ There is a likely to be a note about direct and indirect quotes when a quote has
 
   *He instructed him to tell no one (Luke 5:14 ULB)*
 
-    * **to tell no one** - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: `Direct and Indirect Quotations <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/DirectIndirectQuotations.rst>`_)
+    * **to tell no one** - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: `Direct and Indirect Quotations <https://btt-writer.readthedocs.io/en/latest/DirectIndirectQuotations.html>`_)
 
       Here the translation suggestion is to change the indirect quote to a direct quote.
 
   *At the time of the harvest I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn."'" (Matthew 13:30 ULB)*
 
-    * **I will say to the reapers,** "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: `Direct and Indirect Quotations <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/DirectIndirectQuotations.rst>`_)
+    * **I will say to the reapers,** "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: `Direct and Indirect Quotations <https://btt-writer.readthedocs.io/en/latest/DirectIndirectQuotations.html>`_)
 
       Here the translation suggestion is to change the direct quote to an indirect quote.
 
@@ -343,9 +343,9 @@ Sometimes there are notes for a phrase and separate notes for portions of that p
 
   *But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)*
 
-    * **But it is to the extent of your hardness and unrepentant heart** - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See:  `Metaphor <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/Metaphor.rst>`_ and `Metonymy <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/Metonymy.rst>`_)
+    * **But it is to the extent of your hardness and unrepentant heart** - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See:  `Metaphor <https://btt-writer.readthedocs.io/en/latest/Metaphor.html>`_ and `Metonymy <https://btt-writer.readthedocs.io/en/latest/Metonymy.html>`_)
 
-    * **hardness and unrepentant heart** - The phrase "unrepentant heart" explains the word "hardness" (See: `Doublet <https://github.com/WycliffeAssociates/btt-writer-docs/edit/master/docs/Doublet.rst>`_)
+    * **hardness and unrepentant heart** - The phrase "unrepentant heart" explains the word "hardness" (See: `Doublet <https://btt-writer.readthedocs.io/en/latest/Doublet.html>`_)
 
       In this example the first note explains the the metaphor and metonymy, and the second explains the doublet in the same passage.
 
