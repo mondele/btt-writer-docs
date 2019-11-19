@@ -50,11 +50,11 @@ When you choose **Download Available Source Texts** from the Update menu, you ha
 
   1.	Click to select a category.  The possible categories are:
  
-     * Old Testament: Opens a list of Old Testament books
+       * Old Testament: Opens a list of Old Testament books
      
-     * New Testament: Opens a list of New Testament books
+       * New Testament: Opens a list of New Testament books
 
-     * Other: Enables you to download translationWords (bible)
+       * Other: Enables you to download translationWords (bible)
 
   2.	Once you have selected a book category, a list of available languagess opens. Select one or more languages and click Download.
  
