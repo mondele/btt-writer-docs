@@ -64,22 +64,22 @@ You can use BTT Writer to ensure that the project is complete and that all contr
 
     *	Click the Contributors tab -- This is where you enter who translated the work. Remember that the names will be publicly available.
 
-      1.	Click the Name or Pseudonym line and enter a contributor’s name. 
+      1.	Click the Name or Pseudonym line and enter a contributor’s name, or their pseudonym if they do not wish their name to be published. 
  
       2.	Click the check box to indicate that this person has agreed to the terms of use.
       
-      3.  Click Add Contributor to add the translator.
+      3.    Click Add Contributor to add the translator.
  
-      4. When you have finished adding contributors, click Next to continue.
+      4.    When you have finished adding contributors, click Next to continue.
 
 
     •	When you either click Next in the step above, or click the Upload/Export tab, you are presented with Upload/Export Options. 
 
-      1.	Select Upload to Door43 (requires an Internet connection). 
+      1.	Select Upload to Server (requires an Internet connection). Note: The server to which the project will be uploaded in the one specified in the  Server Suite setting -- see `BTT Writer for the Desktop: Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.html>`_.
 
-      2.	A pop-up message appears after a successful upload. This pop-up message includes the repository that the translation is in on the Door43 server. 
+      2.	A pop-up message appears after a successful upload. This pop-up message includes the repository that the translation is in on the content server. 
 
-      3.	Click the link to view the repository.
+      3.	Click the link to view the repository. If you are viewing the WACS server, click "See in Reader" for a read-friendly view.
 
 Source Text Request Form
 ^^^^^^^^^^^^^^^^^^^^^^^^
