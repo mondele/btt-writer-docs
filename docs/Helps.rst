@@ -27,7 +27,7 @@ Notes
 
 The Notes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of options available to them. See `Using the Notes <https://btt-writer.readthedocs.io/en/latest/Helps.html#using-the-notes>`_ for more information.
 
-To download Open Bible Story notes, see	https://cdn.door43.org/en/sn/v1/obs.zip.
+To download Open Bible Story notes, click	https://cdn.door43.org/en/sn/v1/obs.zip.
 
 For Bible notes, see	https://bibleineverylanguage.org/translations/ and select the Bible book under ULB Translation Notes.
 
