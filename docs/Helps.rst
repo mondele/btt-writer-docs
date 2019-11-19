@@ -25,7 +25,7 @@ For Bible questions, see	https://door43.org/u/WycliffeAssociates/en_tq/8b448b8ec
 Notes
 ----------------
 
-The Notes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of options available to them. See `Using the Notes`_ for more information.
+The Notes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of options available to them. See `Using the Notes <https://btt-writer.readthedocs.io/en/latest/Helps.html#using-the-notes>`_ for more information.
 
 To download Open Bible Story notes, see	https://cdn.door43.org/en/sn/v1/obs.zip.
 
