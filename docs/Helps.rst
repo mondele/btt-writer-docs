@@ -57,7 +57,7 @@ For example:
 
 There are many different types of notes in the Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help translators make decisions on the best way to translate the Bible text into their language.
 
-`Notes with Definitions <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-with-definitions>`_ - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
+`Notes with Definitions`_ - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
 
 `Notes that Explain <https://btt-writer.readthedocs.io/en/latest/Helps.html#notes-that-explain>`_ - Simple explanations about words or phrases are in sentence format.
 
