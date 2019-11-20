@@ -84,7 +84,7 @@ Login Options
 When BTT Writer first opens, you are presented with a request to create or log in to an account. 
 There are two types of accounts that you can use:
 
-* **Offline Account** – user has full use of the program except for uploading to and importing from the server. You may want to start with an offline account and then switch to a server account later when you want to upload your work (the work is attached to the device, not to the account).  
+* **Local User Profile** – user has full use of the program except for uploading to and importing from the server. You may want to start with an offline account and then switch to a server account later when you want to upload your work (the work is attached to the device, not to the account).  
 
 * **Server Account** – user has full use of the program and can upload to and import from the server (requires Internet connection.)
 
