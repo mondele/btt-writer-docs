@@ -61,16 +61,7 @@ To use Feedback in the 3-dot options menu to request a new language:
 
 **Note**: Even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the app, use English Demo1 or English Demo2. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the support staff will put it in the correct language. Your translation will then show in your language.
     
-Can I change the target language of an existing project?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you make a mistake and designate the wrong target language, after you have finished defining the project you can change the target language.
-
-1. On the Home page, click the "i" icon next to the project whose target language you wish to change.
-
-2. On the information window, Click **Change** next to the target language.
- 
-3. The *Choose target language* window appears, enabling you to select a different target language. As soon as you select a language, a message displays to tell you the change is complete. 
 
 How do I select the project category?
 ---------------------------------------
@@ -120,7 +111,7 @@ If you make a mistake, after you have finished defining the project there are th
 
 1.	Target language:
 
-    *	On the Home page, click the   icon next to the project whose target language you wish to change.
+    *	On the Home page, click the "i" icon next to the project whose target language you wish to change.
 
     *	On the information window, click Change next to the target language.
 
