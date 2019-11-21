@@ -90,27 +90,65 @@ To designate what to work on for this project, complete the following steps:
 
   *	If you chose Other, you next choose to translate either Open Bible Stories, Words (these are from the Bible), or Words OBS (these are from Open Bible Stories). The last two types are available only in Gateway Language Mode (See `How do I set up to translate Bible resources? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-bible-resources>`_.)
 
-How do I select or change the source text? 
+How do I select the source text? 
 -----------------------------------------------------
 
-After selecting the category and type, the project is created and opens. If it is a translationWords project, it automatically uses an English source text. However, in other types of projects you need to select a source text before you can begin to translate. This is the text you will be translating *from*.
-
-You can add or change source texts at any time while working in the project. You are not able to work in a project until you choose a source text language.
+After selecting the category and type, the project is created and opens. If it is a translationWords project, it automatically uses an English source text. However, in other types of projects you need to select a source text before you can begin to translate. This is the text you will be translating *from*. You are not able to work in a project until you choose a source text language.
 
 **Note**: If you are doing Gateway translation, be sure to select English (en) Unlocked Literal Bible as your source text. This is the source that has the resources (notes, words, and questions) attached to it.
 
-In the translation project, complete the following steps to select or change the source text language:
+In the translation project, complete the following steps to select the source text language:
 
-1. Click the rectangular icon with the + and - sign  found at the center of the project window (or at the top right of a previously-chosen source text).
+1. Click the rectangular icon with the + and - sign  found at the center of the project window .
  
 2. Click the empty square box next to the desired source text and language. You can scroll down to see additional texts, or search by using the magnifying glass icon at the upper right of the *Choose source translations* box.
 
 3. To save the selection(s), click **Confirm** at the bottom right of the *Choose source translations* box, OR click **Cancel** to close without saving the selected language.
  
-**Note**: You can choose multiple source texts; those selected are moved to the top portion of the *Choose source translations* box under the *Selected* heading. 
+**Note**: You can choose up to 3 source texts; those selected are moved to the top portion of the *Choose source translations* box under the *Selected* heading. 
  
   * Choosing multiple source texts enables you to compare them as you are performing the translation work. 
   
   * For example, when translating the Bible you should always choose the Unlocked Literal Bible (ULB) in the source language, but you may want to also choose the Unlocked Dynamic Bible (UDB) if it is available in your language because it may be easier to understand. Looking at the UDB may help you to translate or check a passage.
  
 .. warning:: You are not able to work in a project until you choose a source text.
+
+How do I change project properties? 
+-----------------------------------------------------
+
+If you make a mistake, after you have finished defining the project there are three project properties that you can change:
+
+1.	Target language:
+
+    a.	On the Home page, click the   icon next to the project whose target language you wish to change.
+
+    b.	On the information window, click Change next to the target language.
+
+    c.	The Choose target language window appears, enabling you to select a different target language. As soon as you select a language, a message displays to tell you the change is complete. Click CLOSE to dismiss the message.
+ 
+
+2.	Resource type: You may wish to change the resource type (category) of the project. 
+
+For example, you tried to create a text project when you had Gateway Language Mode set to On. This would have created a Text ULB project, but you just want a regular text project for translating the Bible into a mother tongue language. 
+
+You can change the resource type as follows:
+
+    a.	On the Home page, click the   icon next to the project whose target language you wish to change.
+
+    b.	On the information window, click Change next to the resource type.
+ 
+    c.	The Resource Options window enables you to select a different type of resource. If you don’t want to make a change, you can click CANCEL to dismiss this window. 
+ 
+
+As soon as you select an option, a message displays to tell you the change is complete. Click CLOSE to dismiss the message.
+ 
+
+3.	Source text: You can add or change source texts at any time while working in the project. To change the source text:
+
+    a.	With the project open, click the +- icon on the source text tab.
+ 
+
+    b.	Select the source text(s) you wish to use, or click the checked box next to a selected source text to remove it.
+        
+
+    c.	Click CONFIRM to close the window or CANCEL to exit without saving the changes.
