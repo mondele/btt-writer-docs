@@ -162,6 +162,13 @@ Note: At any time you can view the License Agreement, Statement of Faith, Transl
 Setup Steps
 -----------
 
+There are two types of projects that you can do in BTT Writer:
+
+1.	A regular text project, where you translate the Bible or Open Bible Stories (OBS) from one language to another
+
+2.	A Gateway Language (GL) project, where you translate Bible resources (Notes, Questions, or Words) from English into a Gateway language
+
+
 How do I set up to translate the Bible or Open Bible Stories?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -175,12 +182,12 @@ To enable Blind Edit Mode, perform the following steps:
  
 3.	In the breadcrumbs at the top left of the screen, click Home to return to the home screen. 
 
-How do I set up to translate Bible resources?
+How do I set up to translate Bible resources (GL project)?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you are using BTT Writer to translate Bible resources (translationNotes , translationQuestions, or translationWords) from English into a Gateway language, there is a setup step that you need to perform prior to starting a project.
+If you are using BTT Writer for a GL project, there is a setup step that you need to perform prior to starting a project.
 
-You must set BT to use Gateway Language Mode so that the resources are available to be translated. Setting this mode does not affect existing projects, if any. It affects only the options that you see when creating new projects.
+You must set BTT Writer to use Gateway Language Mode so that the resources are available to be translated. Setting this mode does not affect existing projects, if any. It affects only the options that you see when creating new projects.
 
 To use Gateway Language Mode for new projects, perform the following steps:
 
@@ -190,4 +197,4 @@ To use Gateway Language Mode for new projects, perform the following steps:
  
 3.	In the breadcrumbs at the top left of the screen, click Home to return to the home screen.
  
-
+Once you have set Gateway Language Mode, the Bible resources project categories will be available for you to choose, but you will not be able to create a regular text project until you unset Gateway Language Mode.
