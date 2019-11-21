@@ -57,7 +57,7 @@ When you choose **Download Available Source Texts** from the Update menu, you ha
 
     * Other: Enables you to download Translation Words (bible)
 
-  2.	Once you have selected a book category, a list of available languagess opens. Select one or more languages and click Download.
+  2.	Once you have selected a book category, a list of available source texts opens. Select one or more source texts and click Download.
  
   3.	The selected text(s) download (this may take a few minutes) and then you should receive a success message. Click Close.
 
