@@ -111,7 +111,7 @@ In the translation project, complete the following steps to select the source te
   
   * For example, when translating the Bible you should always choose the Unlocked Literal Bible (ULB) in the source language, but you may want to also choose the Unlocked Dynamic Bible (UDB) if it is available in your language because it may be easier to understand. Looking at the UDB may help you to translate or check a passage.
  
-.. warning:: You are not able to work in a project until you choose a source text.
+**WARNING:** You are not able to work in a project until you choose a source text.
 
 How do I change project properties? 
 -----------------------------------------------------
@@ -120,11 +120,11 @@ If you make a mistake, after you have finished defining the project there are th
 
 1.	Target language:
 
-    a.	On the Home page, click the   icon next to the project whose target language you wish to change.
+    *	On the Home page, click the   icon next to the project whose target language you wish to change.
 
-    b.	On the information window, click Change next to the target language.
+    *	On the information window, click Change next to the target language.
 
-    c.	The Choose target language window appears, enabling you to select a different target language. As soon as you select a language, a message displays to tell you the change is complete. Click CLOSE to dismiss the message.
+    *	The Choose target language window appears, enabling you to select a different target language. As soon as you select a language, a message displays to tell you the change is complete. Click CLOSE to dismiss the message.
  
 
 2.	Resource type: You may wish to change the resource type (category) of the project. 
@@ -133,22 +133,21 @@ For example, you tried to create a text project when you had Gateway Language Mo
 
 You can change the resource type as follows:
 
-    a.	On the Home page, click the   icon next to the project whose target language you wish to change.
+    *	On the Home page, click the   icon next to the project whose target language you wish to change.
 
-    b.	On the information window, click Change next to the resource type.
+    *	On the information window, click Change next to the resource type.
  
-    c.	The Resource Options window enables you to select a different type of resource. If you don’t want to make a change, you can click CANCEL to dismiss this window. 
+    *	The Resource Options window enables you to select a different type of resource. If you don’t want to make a change, you can click CANCEL to dismiss this window. 
  
-
-As soon as you select an option, a message displays to tell you the change is complete. Click CLOSE to dismiss the message.
+    *   As soon as you select an option, a message displays to tell you the change is complete. Click CLOSE to dismiss the message.
  
 
 3.	Source text: You can add or change source texts at any time while working in the project. To change the source text:
 
-    a.	With the project open, click the +- icon on the source text tab.
+    *	With the project open, click the +- icon on the source text tab.
  
 
-    b.	Select the source text(s) you wish to use, or click the checked box next to a selected source text to remove it.
+    *	Select the source text(s) you wish to use, or click the checked box next to a selected source text to remove it.
         
 
-    c.	Click CONFIRM to close the window or CANCEL to exit without saving the changes.
+    *	Click CONFIRM to close the window or CANCEL to exit without saving the changes.
