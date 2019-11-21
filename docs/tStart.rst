@@ -85,7 +85,7 @@ After you have selected your target language, the next screen(s) enable you to s
  
 3.	The new translation project opens showing the Chapter or Story view. If you choose an Open Bible Stories project, it opens to the first paragraph of The Creation.
 
-How do I select the source text? 
+How do I select or change the source text? 
 -----------------------------------------------------
 
 You can select and/or change your source text whenever you use BTT Writer. When first creating a new project, you *must* select a source text language. This is the text you will be translating *from*.
@@ -102,42 +102,4 @@ You can choose multiple source texts; those selected are moved to the top portio
  
 .. warning:: You are not able to work in a project until you choose a source text.
 
-How do I change project properties? 
------------------------------------------------------
 
-If you make a mistake, after you have finished defining the project there are three project properties that you can change:
-
-1.	Target language:
-
-    a.	On the Home page, click the   icon next to the project whose target language you wish to change.
-
-    b.	On the information window, click Change next to the target language.
-
-    c.	The Choose target language window appears, enabling you to select a different target language. As soon as you select a language, a message displays to tell you the change is complete. Click CLOSE to dismiss the message.
- 
-
-2.	Resource type: You may wish to change the resource type (category) of the project. 
-
-For example, you tried to create a text project when you had Gateway Language Mode set to On. This would have created a Text ULB project, but you just want a regular text project for translating the Bible into a mother tongue language. 
-
-You can change the resource type as follows:
-
-    a.	On the Home page, click the   icon next to the project whose target language you wish to change.
-
-    b.	On the information window, click Change next to the resource type.
- 
-    c.	The Resource Options window enables you to select a different type of resource. If you don’t want to make a change, you can click CANCEL to dismiss this window. 
- 
-
-As soon as you select an option, a message displays to tell you the change is complete. Click CLOSE to dismiss the message.
- 
-
-3.	Source text: You can add or change source texts at any time while working in the project. To change the source text:
-
-    a.	With the project open, click the +- icon on the source text tab.
- 
-
-    b.	Select the source text(s) you wish to use, or click the checked box next to a selected source text to remove it.
-        
-
-    c.	Click CONFIRM to close the window or CANCEL to exit without saving the changes.
