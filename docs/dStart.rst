@@ -34,7 +34,7 @@ there is also a green **Start a New Translation** button on the home screen that
 How do I select the target language?
 --------------------------------------
 
-All translationStudio projects require a target language (the mother tongue language *into which* you will be translating). When you create a new project, the first step is selecting the target language, so BTT Writer presents you with a language list that is alphabetical by the language code shown in the right column of the list.
+All BTT Writer projects require a target language (the mother tongue language *into which* you will be translating). When you create a new project, the first step is selecting the target language, so BTT Writer presents you with a language list that is alphabetical by the language code shown in the right column of the list.
 
 To choose your target language (the one you will be translating to), you can either scroll down the language list to find the target language OR you can search for the target language. To search, perform the following steps:
 
@@ -55,11 +55,11 @@ To use Feedback in the 3-dot options menu to request a new language:
 
 2. In the list of options, click Feedback.
 
-3. The Feedback screen opens. Type the name of the language you would like added to translationStudio. Provide the location pf the speakers and other names the language is known by. If you used a language that is already in the APP, tell which language you used.
+3. The Feedback screen opens. Type the name of the language you would like added to BTT Writer. Provide the location pf the speakers and other names the language is known by. If you used a language that is already in the APP, tell which language you used.
 
 4. Click Confirm to send your request.
 
-**Note**: Even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the app, use English Demo1 or English Demo2. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the support staff will put it in the correct language. Your translation will then show in your language.
+**Note**: Even after requesting a new language, certain approvals are required before it will be added to BTT Writer. Until your language is added to the app, use English Demo1 or English Demo2. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the support staff will put it in the correct language. Your translation will then show in your language.
     
 
 
