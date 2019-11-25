@@ -43,7 +43,7 @@ The title of the word or phrase is to be translated above the thin red line.
 
 The explanation of the word is translated on the lines under the thin red line.
 
-Bullets (the dot at the beginning of a line) are formed by:
+To insert a bullet (the dot at the beginning of a line):
 
 1. Hold down the shift key and press the 8 key (type an asterisk).
 
