@@ -31,9 +31,9 @@ You can create and edit translations of Open Bible Stories or books of the Bible
 Translate
 ^^^^^^^^^^^
 
-1.	For the initial translation, use Blind Edit Mode, which is organized to work with blind drafting. To use Blind Edit Mode, see `How do I set up to translate the Bible or Open Bible Stories? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-the-bible-or-open-bible-stories>`_
+For the initial translation, use Blind Edit Mode, which is organized to work with blind drafting. To use Blind Edit Mode, see `How do I set up to translate the Bible or Open Bible Stories? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-the-bible-or-open-bible-stories>`_
 
-2.	You may want to read `<https://bibleineverylanguage.org/processes/mast/>`_ to understand the steps of blind drafting translation.
+You may want to read `<https://bibleineverylanguage.org/processes/mast/>`_ to understand the steps of blind drafting translation.
 
 3.	Open the project for the story or book that is being translated and click the Read view icon.
 
@@ -88,11 +88,11 @@ If you need to make changes in the translated text, perform the following steps:
        
   * Continue until all verses are marked with a verse number.
 
-5.	When you are finished working, use the toggle at the bottom of the chunk to mark the translation of that chunk done. Slide the toggle to the right, or just click it, to indicate that the chunk is finished.
+5.	When you are finished working, use the toggle at the bottom of the chunk to mark the translation of that chunk done. Click the toggle to indicate that the chunk is finished.
 
 6.	A message appears for you to confirm that the chunk is done. Click Confirm to indicate that the work is done, or click Cancel to continue editing.
 
-At any time you can slide the toggle   back to the left, or just click it, to edit the chunk again. Use the above steps to edit.
+At any time you can click the toggle to edit the chunk again. Use the above steps to edit.
 
 Working in a Resources Project
 ------------------------------
