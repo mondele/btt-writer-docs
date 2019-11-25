@@ -144,7 +144,9 @@ For additional information on translating in a text project, see Translate in a 
 **Text project navigation**
 
 The navigation buttons in a text project are different depending on the view:
+
 *	In the Blind Edit view or the Edit-Review view, the navigation buttons are the same as in the Notes or Questions projects.
+
 *	In the Read view, the buttons are similar except that there are no “previous chunk” or “next chunk” buttons, since the Read view is not divided into chunks.
    
 Resources
