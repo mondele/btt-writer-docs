@@ -36,16 +36,17 @@ How do I select the target language?
 
 All BTT Writer projects require a target language (the mother tongue language *into which* you will be translating). When you create a new project, the first step is selecting the target language, so BTT Writer presents you with a language list that is alphabetical by the language code shown in the right column of the list.
 
-To choose your target language (the one you will be translating to), you can either scroll down the language list to find the target language OR you can search for the target language. To search, perform the following steps:
+To choose your target language (the one you will be translating *into*), you can either scroll down the language list to find the target language OR you can search for the target language. To search, perform the following steps:
 
 1.	In the search field and the top left of the language list, type the first few letters of your language to narrow the list. 
  
 2.	Click your target language to select it.
+**Note:** If you are creating a sample project and not an actual translation project, please select “English demo1” or “English demo2” as the target language.
  
 What if I cannot find the desired target language?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you do not see your language in the list of target languages, first try alternate spellings, dialect names, and any variant names for your language. If you still can't find it, you can request that your language be added.
+If you do not see your language in the list of target languages, first try alternate spellings, dialect names, and any variant names for your language. If you still can't find it, you can request that your language be added to the list of available languages.
 
 The best way to submit a request is to send an email to helpdesk@techadvancement.com. Another method is to use the Feedback option from the options menu to submit a Bug Report. In either case, please provide as much information as you can about the language, such as the local name of the language, any other names it is known by, approximate number of speakers, where it is spoken, any similar languages, any published works in that language, etc.
 
@@ -59,13 +60,13 @@ To use Feedback in the 3-dot options menu to request a new language:
 
 4. Click Confirm to send your request.
 
-**Note**: Even after requesting a new language, certain approvals are required before it will be added to BTT Writer. Until your language is added to the app, use English Demo1 or English Demo2. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the support staff will put it in the correct language. Your translation will then show in your language.
+**Note**: Even after requesting a new language, certain approvals are required before it will be added to the language list in BTT Writer. Until your language is added to the app, use English demo1 or English demo2. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the support staff will change the target language to the correct language. Your translation will then be listed in your language.
     
 
 
 How do I select the project category?
 ---------------------------------------
-When you create a new project, the next step is selecting the project category, which is the type of project you will be working on, such as a book of the Bible, Open Bible Stories, or one of the translation resource (notes, words, or questions).
+When you create a new project, the next step is selecting the project category, which is the type of project you will be working on, such as a book of the Bible, Open Bible Stories, or one of the translation resources (notes, words, or questions).
 
 To designate what to work on for this project, complete the following steps:
 
