@@ -61,7 +61,7 @@ The title of **‘Translation Suggestions:’** (only on some of the Translation
 
 4. Press the Enter key twice to insert a blank line between the title and the content.
 
-5. Type in the translation.
+5. Type in the translation of the content.
  
 If there is a **parenthesis**, copy and paste the entire parenthesis at the end of the translation on the card. Copy: the parenthesis “(“, words as they are between the parenthesis, and the last parenthesis “)”. (See: words)
 
