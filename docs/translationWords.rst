@@ -51,7 +51,7 @@ To insert a bullet (the dot at the beginning of a line):
 
 3. Type in the translation.
 
-The title of **‘Translation Suggestions:’** (only on some of the translationWords)
+The title of **‘Translation Suggestions:’** (only on some of the Translation Words)
 
 1. Start the line with a hashtag (#) by holding down the shift key and pressing the 3 key.
 
