@@ -36,7 +36,7 @@ Columns:
  
 **HINT**: You might want to move the rows of cards so that the row being worked on is placed at the top of the window.
  
-Formatting the translationWords:
+Formatting the Translation Words:
 --------------------------------
 
 The title of the word or phrase is to be translated above the thin red line.
@@ -57,9 +57,11 @@ The title of **‘Translation Suggestions:’** (only on some of the translation
 
 2. Type in a space.
 
-3. Press the Enter key twice to insert a blank line between the title and the content.
+3. Translate the title of "Translation Suggestions".
 
-4. Type in the translation.
+4. Press the Enter key twice to insert a blank line between the title and the content.
+
+5. Type in the translation.
  
 If there is a **parenthesis**, copy and paste the entire parenthesis at the end of the translation on the card. Copy: the parenthesis “(“, words as they are between the parenthesis, and the last parenthesis “)”. (See: words)
 
