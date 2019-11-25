@@ -139,7 +139,7 @@ If you make a mistake, after you have finished defining the project there are th
     *	With the project open, click the +- icon on the source text tab.
  
 
-    *	Select the source text(s) you wish to use, or click the checked box next to a selected source text to remove it.
+    *	Select the source text(s) you wish to use or click the checked box next to a selected source text to remove it.
         
 
     *	Click CONFIRM to close the window or CANCEL to exit without saving the changes.
