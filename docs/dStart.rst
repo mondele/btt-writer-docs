@@ -121,9 +121,9 @@ If you make a mistake, after you have finished defining the project there are th
 
 2.	Resource type: You may wish to change the resource type (category) of the project. 
 
-For example, you tried to create a text project when you had Gateway Language Mode set to On. This would have created a Text ULB project, but you just want a regular text project for translating the Bible into a mother tongue language. 
+    For example, you tried to create a text project when you had Gateway Language Mode set to On. This would have created a Text ULB project, but you just want a regular text project for translating the Bible into a mother tongue language. 
 
-You can change the resource type as follows:
+    You can change the resource type as follows:
 
     *	On the Home page, click the   icon next to the project whose target language you wish to change.
 
