@@ -44,9 +44,12 @@ Before a Gateway Language translation can become a source text, the following pr
 
 *	Checking - A translation must have reached the appropriate checking level. For Bible translations, this is checking level 3: https://bibleineverylanguage.org/faq/.
 
-•	On Door43 - Door43 must have the version that will be published. If the work was done on multiple devices, then it may need to be merged together. Get the help of a Content Tech to make merging easier (either email help@door43.org or use the #content-techs channel on Slack).
+•	On the content server – The server must have the version that will be published. If the work was done on multiple devices, then it may need to be merged together. Get the help of a Content Tech to make merging easier (either email `help@door43.org <mailto:helpdoor43.org>`_ for Door43 or `helpdesk@techadvancement.com <mailto:helpdesk@techadvancement.com>`_ for WACS).
 
 *	Agreements - Everyone involved in the translation and checking must have agreed to the Statement of Faith, the Translation Guidelines, and the Open License. This can be done either by creating Door43 accounts or by physically signing the documents and digitizing them (scanning or photos). See http://ufw.io/forms for downloadable agreement forms.
+
+Reviewing the Project
+^^^^^^^^^^^^^^^^^^^^^^
 
 You can use BTT Writer to ensure that the project is complete and that all contributors are listed. You can perform project review by completing the following steps to publish your work:
 
@@ -86,9 +89,9 @@ Source Text Request Form
 
 Once you have the prerequisites, you may fill out the source text request form at http://ufw.io/pub/. A few notes about the form:
 
-*	You must have a Door43 account to create a request.
+*	You must have a server account to create a request.
 
-*	You must include the names or pseudonyms of everyone involved. You must also include their Door43 usernames if you are not attaching signed license agreements for them.
+*	You must include the names or pseudonyms of everyone involved. You must also include their server usernames if you are not attaching signed license agreements for them.
 
 *	Note that the information you enter will be public and will become a part of the front matter of the source text.
 
@@ -99,7 +102,7 @@ Questions Regarding the Request to Publish Form and Process
 
 **What Happens After Text is Approved?**
 
-When the Request to Publish is approved, the text is made available on unfoldingword.org for online viewing, as a downloadable, print-ready PDF, and it appears in the unfoldingWord app.
+When the Request to Publish is approved, the text is made available on https://bibleineverylanguage.org/translations/ for online viewing, as a downloadable, print-ready PDF.
 
 **Can Text Be Changed After Level 3 Checking?**
 
