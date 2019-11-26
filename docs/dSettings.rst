@@ -7,11 +7,9 @@ BTT Writer for the Desktop: Modifying Program Settings
     :height: 200px
     :alt: BTT Writer for the Desktop
 
-There are several settings for the BTT Writer program that you can view or modify. To open the settings window, click the 3-dot icon at the bottom left of the screen and click Settings on the menu.
+There are several settings for the BTT Writer program that you can view or modify. To open the settings window, click the 3-dot icon at the bottom left of the screen and click Settings on the menu. The Settings window is the same regardless of whether you invoke it from the home screen or from a project screen.
 
-Click the Back Arrow at the top left of the screen to exit the settings window.
-
-The Settings window is the same regardless of whether you invoke it from the home screen or from a project screen. 
+Click the Back Arrow at the top left of the screen to exit the Settings window.
 
 The Settings window enables personalization of the program. It also displays useful information. Settings are divided into five categories:
 
@@ -28,7 +26,7 @@ General Settings
 
 The General settings are as follows:
 
-1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See  `How do I set up to translate Bible resources? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-bible-resources-gl-project>`_.
+1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See *How do I set up to translate Bible resources?* in `BTT Writer for the Desktop: Getting Started <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
   
 2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See *How do I set up to translate the Bible or Open Bible Stories?* in `BTT Writer for the Desktop: Getting Started <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
 
