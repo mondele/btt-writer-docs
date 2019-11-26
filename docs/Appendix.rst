@@ -61,12 +61,12 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DFootnote.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DFootnote.pdf>`_  
      
    * - **Uploading, Exporting, and Importing a Project**
-     - \* `PowerPoint https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpload.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpload.pdf>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpload.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpload.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DUpload.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DUpload.pdf>`_
 
    * - **Modifying Program Settings**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AChangeSettings.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AChangeSettings.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DChangeSettings.pdf>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DChangeSettings.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DChangeSettings.pdf>`_
 
    * - **Updating Program Elements** 
 
