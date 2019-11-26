@@ -13,7 +13,7 @@ Use these handouts to give to the mother-tongue translators. This might help the
    * - Title
      - Links
 
-   * - **Installing translationStudio**
+   * - **Installing BTT Writer**
      - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_Install_Handout.pdf>`_ 
 
    * - **Creating a Door43 Login**
@@ -44,7 +44,7 @@ Power Point Presentations (with PDFs)
      - Android
      - Desktop
      
-   * - **Getting Started with translationStudio**
+   * - **Getting Started with BTT Writer**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AGetStarted.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DGetStarted.pdf>`_
 
