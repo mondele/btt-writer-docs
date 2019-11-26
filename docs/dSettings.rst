@@ -7,9 +7,11 @@ BTT Writer for the Desktop: Modifying Program Settings
     :height: 200px
     :alt: BTT Writer for the Desktop
 
-There are several settings for the BTT Writer program that you can view or modify. To open the settings window, click the 3-dot icon at the bottom left of the screen and click Settings on the menu. The Settings window is the same regardless of whether you invoke it from the home screen or from a project screen.
+There are several settings for the BTT Writer program that you can view or modify. To open the settings window, click the 3-dot icon at the bottom left of the screen and click Settings on the menu.
 
-Click the Back Arrow at the top left of the screen to exit the Settings window.
+Click the Back Arrow at the top left of the screen to exit the settings window.
+
+The Settings window is the same regardless of whether you invoke it from the home screen or from a project screen. 
 
 The Settings window enables personalization of the program. It also displays useful information. Settings are divided into five categories:
 
@@ -26,16 +28,16 @@ General Settings
 
 The General settings are as follows:
 
-1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See *How do I set up to translate Bible resources?* in `BTT Writer for the Desktop: Getting Started <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
+1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See  `How do I set up to translate Bible resources (GL project)? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-bible-resources-gl-project>`_.
   
-2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See *How do I set up to translate the Bible or Open Bible Stories?* in `BTT Writer for the Desktop: Getting Started <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/desktop.rst>`_.
+2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See `How do I set up to translate the Bible or Open Bible Stories? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-the-bible-or-open-bible-stories>`_.
 
 3. **Target Translation Font**: The font of the translated text
 
   * The name of the chosen font is displayed. Click **Target Translation Font** to change the displayed font in the text.
   
-  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font.
- 
+  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font, and then click **CONFIRM**.
+  
 4.	**Source Translation Font**: The font of the source text
 
   * The name of the chosen font is displayed. 
