@@ -89,13 +89,13 @@ Follow this process to export, or save, the project to a pdf file:
 
   *	To the content - return to the Project.
 
-    *	Click on Project at the left edge of the top green bar.
+    *	Click on Project at the left edge of the top bar.
 
     *	Make changes to the content.
 
   *	To the formatting of the document - return to the Project.
 
-    *	Click on Project at the left edge of the top green bar.
+    *	Click on Project at the left edge of the top bar.
 
     *	Click the 3-dot icon to invoke the Options menu.
 
