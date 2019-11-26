@@ -42,7 +42,7 @@ Before a Gateway Language translation can become a source text, the following pr
 
 *	Whole Resource - The whole resource must be translated and checked to the required level. Parts of resources (e.g. half of the Open Bible Stories, only a few chapters of a book of the Bible) cannot be published.
 
-*	Checking - A translation must have reached the appropriate checking level. For Bible translations, this is checking level 3: https://live.door43.org/u/Door43/en_ta/eccd2b1a6f/04-checking.html#level3.
+*	Checking - A translation must have reached the appropriate checking level. For Bible translations, this is checking level 3: https://bibleineverylanguage.org/faq/.
 
 •	On Door43 - Door43 must have the version that will be published. If the work was done on multiple devices, then it may need to be merged together. Get the help of a Content Tech to make merging easier (either email help@door43.org or use the #content-techs channel on Slack).
 
