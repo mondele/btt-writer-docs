@@ -8,11 +8,13 @@ BTT Writer for the Desktop: Importing a Project
     :alt: BTT Writer for the Desktop
 
 
-The BTT Writer program enables you to import a project from various sources. To import a project, start from the Home page:
+The BTT Writer program enables you to import a project from various sources. To import a project:
  
-1. Click on the 3-dot icon at the bottom left of the window. 
+1. Navigate to the Home page.
 
-2. Select Import from the menu. 
+2. Click on the 3-dot icon at the bottom left of the window. 
+
+3. Select Import from the menu. 
 
 There are four options to choose from when importing to BTT Writer.
  
