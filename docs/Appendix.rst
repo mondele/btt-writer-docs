@@ -56,7 +56,7 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ANavigation.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ANavigation.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DNavigation.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DNavigation.pdf>`_
  
-   * - **Adding Footnotes**
+   * - **Translating Footnotes**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AFootnote.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AFootnote.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DFootnote.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DFootnote.pdf>`_  
      
