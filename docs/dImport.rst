@@ -160,7 +160,7 @@ Resolve the differences by following these steps:
   
   * The text that you did not select disappears. 
   
-Repeat all the above steps until all the conflicts have been resolved by choosing the desired translations. 
+Repeat all the above steps until all the conflicts have been resolved by choosing the desired translations. If you run into difficulty you can always contact helpdesk@techadvancement.com for help or submit a ticket using the following link: https://www.techadvancement.com/submit-ticket/. 
 
 **NOTE**: resolve all conflicts before doing another export or import of the project.
 
