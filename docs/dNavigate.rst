@@ -149,10 +149,10 @@ The navigation buttons in a text project are different depending on the view:
 
 *	In the Read view, the buttons are similar except that there are no “previous chunk” or “next chunk” buttons, since the Read view is not divided into chunks.
    
-Resources
----------
+Using the Resources
+-------------------
 
-**Note**: Currently the resources are attached to the English ULB, so they are available in BTT Writer only when the English ULB is used as the souce text.
+**Note**: Currently the resources are attached to the English ULB, so they are available in BTT Writer only when the English ULB is used as the source text.
 
 All of the Notes, Words and Questions are included in the BTT Writer program. The resources are found in the far right pane of the Edit-Review view. To access that view, click the Edit-Review icon that looks like three vertical lines.
 
