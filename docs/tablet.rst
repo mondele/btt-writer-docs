@@ -34,12 +34,13 @@ Opening/Reopening BTT Writer
 ------------------------------
 
 .. image:: ../images/BTTWiconAndroid.gif
-    :width: 106px
+    :width: 80px
     :align: left
-    :height: 138px
+    :height: 104px
     :alt: BTT Writer for Android tablet icon
 
 BTT Writer opens automatically after installing it, but if you close it, you can tap the BTT Writer icon on your tablet to reopen it.
+
 
 Login Options
 -------------
