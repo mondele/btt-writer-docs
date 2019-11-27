@@ -103,3 +103,24 @@ You can choose multiple source texts; those selected are moved to the top portio
 .. warning:: You are not able to work in a project until you choose a source text.
 
 
+How do I change project properties? 
+-----------------------------------------------------
+
+If you make a mistake, after you have finished defining the project there are two project properties that you can change:
+
+1.	Target language:
+
+    *	On the Home page, tap the "i" icon next to the project whose target language you wish to change.
+
+    *	On the information window, tap **Change** next to the target language.
+
+    *	The Choose target language window appears, enabling you to select a different target language. As soon as you select a language, a message displays to tell you the change is complete. tap **CLOSE** to dismiss the message.
+ 
+
+2.	Source text: You can add or change source texts at any time while working in the project. To change the source text:
+
+    *	With the project open, tap the +- icon on the source text's tab.
+
+    *	Select the source text(s) you wish to use or tap the checked box next to a selected source text to remove it.
+
+    *	Click **CONFIRM** to close the window or **CANCEL** to exit without saving the changes.
