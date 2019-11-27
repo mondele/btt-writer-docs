@@ -47,7 +47,7 @@ When you choose **Download Available Source Texts** from the Update menu, you ha
 **Note**: You may receive an unsuccessful message. One or more choices have a red x next to the name. This source text was not downloaded. You may try again to download the texts that were not successfully downloaded.
 
 * By Book – this choice enables you to download multiple languages at once for a single book. If you choose to view by book, only the languages for which that book is available are shown. Other books may become available as more source texts get translated and checked.
-**NOTE**: The choice of 'By Book' also enables the downloading of the Translation Words (bible).
+**NOTE**: The choice of 'By Book' also enables the downloading of the Translation Words and OBS resources.
 
   1.	Click to select a category.  The possible categories are:
    
@@ -55,7 +55,7 @@ When you choose **Download Available Source Texts** from the Update menu, you ha
      
     * New Testament: Opens a list of New Testament books
 
-    * Other: Enables you to download Translation Words (bible)
+    * Other: Enables you to download the Translation Words (bible), OBS source, and OBS Translation Words. 
 
   2.	Once you have selected a book category, a list of available source texts opens. Select one or more source texts and click Download.
  
