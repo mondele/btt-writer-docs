@@ -26,7 +26,7 @@ The definition of a translation project consists of:
 
 To start a translation project, you must specify each of these elements.
 
-Begin by clicking the blue plus sign on the home screen to start defining a new project. When you first start using BTT Writer,
+Begin by tapping the blue plus sign on the home screen to start defining a new project. When you first start using BTT Writer,
 there is also a green **Start a New Translation** button on the home screen that you can use to start a new project.
 
 
@@ -123,4 +123,4 @@ If you make a mistake, after you have finished defining the project there are tw
 
     *	Select the source text(s) you wish to use or tap the checked box next to a selected source text to remove it.
 
-    *	Click **CONFIRM** to close the window or **CANCEL** to exit without saving the changes.
+    *	Tap **CONFIRM** to close the window or **CANCEL** to exit without saving the changes.
