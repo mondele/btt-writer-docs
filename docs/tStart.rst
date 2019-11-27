@@ -11,7 +11,7 @@ BTT Writer for Android™: Starting a New Translation Project
 How do I select what to work on?
 --------------------------------
 
-We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found that Story #31 (see https://door43.org/en/obs/31) is a good first story to translate since it is short and easy to understand. For more information read `Choosing What to Translate <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ChoosingWhatToTranslate.rst>`_. 
+We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found that Story #31 (see https://door43.org/en/obs/31) is a good first story to translate since it is short and easy to understand. For more information read `Choosing What to Translate <https://btt-writer.readthedocs.io/en/latest//ChoosingWhatToTranslate.html>`_. 
 
 How do I start a translation project?
 ------------------------------
