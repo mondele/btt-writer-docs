@@ -44,7 +44,7 @@ Power Point Presentations (with PDFs)
      - Android
      - Desktop
      
-   * - **Getting Started with BTT Writer**
+   * - **Getting Started**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AGetStarted.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DGetStarted.pdf>`_
 
@@ -64,7 +64,7 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpload.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpload.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DUpload.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DUpload.pdf>`_
 
-   * - **Modifying Program Settings**
+   * - **Changing Program Settings**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AChangeSettings.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AChangeSettings.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DChangeSettings.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DChangeSettings.pdf>`_
 
