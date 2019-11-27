@@ -7,7 +7,7 @@ BTT Writer for Android™: Getting Started
     :height: 245px
     :alt: BTT Writer for Android
 
-The app BTT Writer for Android is a mobile app that enables offline translating. It contains the content that needs to be translated as well as translationHelps. You can share information directly from device to device, and you can upload finished content to a server where it can be digitally published.
+BTT Writer for Android is a mobile app that enables offline translating. It contains the content that needs to be translated as well as translation resources. You can share information directly from device to device, and you can upload finished content to a server where it can be digitally published.
 
 
 Installation
@@ -41,6 +41,7 @@ There are two types of accounts that you can use:
 * **Offline Account** – user has full use of the program except for uploading to the server. You may want to start with an offline account and then switch to a server account later when you want to upload your work (the work is attached to the device, not to the account).  
 
 * **Server Account** – user has full use of the program and can upload to the server (requires Internet connection.)
+**Note**: The server to which you upload is determined by the Server Suite setting (see `Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/tSettings.html>`_).
 
 If you do not want to create a new server account at this time or are not able to connect to the Internet, you can create an offline account:
 
