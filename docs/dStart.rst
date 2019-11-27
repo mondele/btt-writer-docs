@@ -103,7 +103,7 @@ In the translation project, complete the following steps to select the source te
   
   * For example, when translating the Bible you should always choose the Unlocked Literal Bible (ULB) in the source language, but you may want to also choose the Unlocked Dynamic Bible (UDB) if it is available in your language because it may be easier to understand. Looking at the UDB may help you to translate or check a passage.
  
-**WARNING:** You are not able to work in a project until you choose a source text.
+.. warning:: You are not able to work in a project until you choose a source text.
 
 How do I change project properties? 
 -----------------------------------------------------
