@@ -25,7 +25,7 @@ In the horizontal position:
 
 * The slider in the middle moves through the text.
 
-* The options menu is the three dots icon at the bottom.
+* The options menu is invoked by tapping the three dots icon at the bottom.
 
 .. image:: ../images/AndroidNavigation.gif
 
