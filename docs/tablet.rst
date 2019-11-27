@@ -33,14 +33,13 @@ There may be an automatic update before the BTT Writer app opens.
 Opening/Reopening BTT Writer
 ------------------------------
 
-BTT Writer opens automatically after installing it, but if you close it, you can tap the BTT Writer icon on your tablet to reopen it.
-
 .. image:: ../images/BTTWiconAndroid.gif
     :width: 106px
     :align: left
     :height: 138px
     :alt: BTT Writer for Android tablet icon
 
+BTT Writer opens automatically after installing it, but if you close it, you can tap the BTT Writer icon on your tablet to reopen it.
 
 Login Options
 -------------
