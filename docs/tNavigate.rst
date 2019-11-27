@@ -27,7 +27,7 @@ In the horizontal position:
 
 * The options menu is the three dots icon at the bottom.
 
-.. image:: ../images/tSNavigation.gif
+.. image:: ../images/AndroidNavigation.gif
 
 Working Views Icons
 -------------------
