@@ -35,7 +35,7 @@ Opening/Reopening BTT Writer
 
 .. image:: ../images/BTTWiconAndroid.gif
     :width: 53px
-    :align: left
+    :align: right
     :height: 69px
     :alt: BTT Writer for Android tablet icon
 
