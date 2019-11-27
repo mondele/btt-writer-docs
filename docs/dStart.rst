@@ -41,7 +41,8 @@ To choose your target language (the one you will be translating *into*), you can
 1.	In the search field and the top left of the language list, type the first few letters of your language to narrow the list. 
  
 2.	Click your target language to select it.
-**Note:** If you are creating a sample project and not an actual translation project, please select “English demo1” or “English demo2” as the target language.
+
+.. note:: Even after requesting a new language, certain approvals are required before it will be added to BTT Writer. Until your language is added to the app, use *English Demo1* or *English Demo2*. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the tS workers will put it in the correct language. Your translation will then show in your language.
  
 What if I cannot find the desired target language?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
