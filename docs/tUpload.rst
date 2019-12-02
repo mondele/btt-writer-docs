@@ -52,9 +52,9 @@ There are six Upload/Export options.
   
   * When you have decided, tap Print. 
 
-  * Choose your destination folder and tap Confirm. 
+  * Choose your destination folder and tap **Confirm**. 
   
-  * You can edit the file name or leave it as is, and then tap OK, or tap Cancel to cancel the export.
+  * You can edit the file name or leave it as is, and then tap **OK**, or tap **Cancel** to cancel the export.
  
   * Choose where to share the PDF. A processing window appears (and may quickly disappear). 
   
