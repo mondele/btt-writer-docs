@@ -45,7 +45,7 @@ Before a Gateway Language translation can become a source text, the following pr
 
 •	On the content server - The server must have the version that will be published. If the work was done on multiple devices, then it may need to be merged together. Get the help of a Content Tech to make merging easier (either email `help@door43.org <mailto:help@door43.org>`_ for Door43 or `helpdesk@techadvancement.com <mailto:helpdesk@techadvancement.com>`_ for WACS.
 
-*	Agreements - Everyone involved in the translation and checking must have agreed to the Statement of Faith, the Translation Guidelines, and the Open License. This can be done either by creating Door43 accounts or by physically signing the documents and digitizing them (scanning or photos). See http://ufw.io/forms for downloadable agreement forms.
+*	Agreements - Everyone involved in the translation and checking must have agreed to the Statement of Faith, the Translation Guidelines, and the Open License. This can be done either by creating server accounts or by physically signing the documents and digitizing them (scanning or photos). See http://ufw.io/forms for downloadable agreement forms.
 
 Reviewing the Project
 ^^^^^^^^^^^^^^^^^^^^^^
