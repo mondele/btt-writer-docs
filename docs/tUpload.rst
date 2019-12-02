@@ -65,9 +65,9 @@ There are six Upload/Export options.
 
 5.	Tap **Send to Friend** to export the file to another device.
 
-  * You are asked to specify a name for your device. Enter a name and then tap Confirm.
+  * You are asked to specify a name for your device. Enter a name and then tap **Confirm**.
  
-  * A window then displays all available devices. Tap the one where you wish to export the file. If no devices are available, tap Cancel.
+  * A window then displays all available devices. Tap the one where you wish to export the file. If no devices are available, tap **Cancel**.
  
   * Close the window when told that the export process is complete.
   
