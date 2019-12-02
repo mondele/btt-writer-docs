@@ -1,19 +1,19 @@
-tS for Android™: Uploading or Exporting Your Work 
-===================================================
+BTT Writer for Android™: Uploading or Exporting Your Work 
+=========================================================
 
 
-.. image:: ../images/tSForAndroidWithAttr.gif
+.. image:: ../images/BTTwriterAndroid.gif
     :width: 305px
     :align: center
     :height: 245px
-    :alt: translationStudio for Android
+    :alt: BTT Writer for Android
 
 Why do I want to upload or export my work?
 ------------------------------------------
 
-When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door43 until you upload it.
+When you work in BTT Writer, your text is saved every five minutes to your device. Your work is not saved to the server until you upload it.
 
-You can also share your work with another program, send it to another device, or put it on an SD card. When your work is on a storage card, you can put it on a computer or device that has the translationStudio app.
+You can also share your work with another program, send it to another device, or put it on an SD card. When your work is on a storage card, you can put it on a computer or device that has the BTT Writer app.
 
 **Note**: You can move or share only the changes that have been made on the device you are using to perform this function. In these instructions, "your work" means any changes made on this device.
 
@@ -28,11 +28,11 @@ To share, move, or store your work:
  
 There are six Upload/Export options.
  
-1.	Tap **Upload to Door43** to copy your work to the online Door43 server, making it available to other translators and creating an online backup. You can upload to Door43 only if you have an internet connection and are logged in to a Door43 account. 
+1.	Tap **Upload to Server** to copy your work to the online server, making it available to other translators and creating an online backup. You can upload to the server only if you have an internet connection and are logged in to a server account. The server to which you are uploading is determined by the Server Suite setting (see `Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/tSettings.html>`_).
 
- * A pop-up message appears after a successful upload. This pop-up message includes the repository that the translation is in on the Door43 server. 
+ * A pop-up message appears after a successful upload. This pop-up message includes the repository that the translation is in on the  server. 
  
- * Tap the link to view the repository. The translation has been uploaded to the server. There is a documentation process that takes place for public publishing.
+ * Tap **VIEW ONLINE** to view the repository. To view a more readable version of your project, tap  **See in Reader**.
 
 2.	Tap **Export to USFM File** to create a USFM (paratext) file.  
 
@@ -75,7 +75,7 @@ There are six Upload/Export options.
 
   * Tap Save to Drive to send your work to a Google Drive that has been created before. This requires an Internet connection.
 
-  * Tap Nearby Share or Android Beam to send your work to a nearby device that has translationStudio installed on it. The app will attempt to locate the device.
+  * Tap Nearby Share or Android Beam to send your work to a nearby device that has BTT Writer installed on it. The app will attempt to locate the device.
 
   * Tap Bluetooth to send your work to a nearby device that is paired to yours through Bluetooth. If the app continues searching for more than a minute, exit the screen and verify that the devices are paired through Bluetooth.
 
