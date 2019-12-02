@@ -1,12 +1,12 @@
-tS for Android™: Working with Footnotes 
+BTT Writer for Android™: Working with Footnotes 
 ====================================================
 
 
-.. image:: ../images/tSForAndroidWithAttr.gif
+.. image:: ../images/BTTwriterAndroid.gif
     :width: 305px
     :align: center
     :height: 245px
-    :alt: translationStudio for Android
+    :alt: BTT Writer for Android
 
 A footnote is additional text that usually appears at the bottom of a book’s page and is referenced within the page.
 In translationStudio, a footnote is shown as a black page icon that you tap to display the footnote.
