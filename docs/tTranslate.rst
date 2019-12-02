@@ -72,7 +72,7 @@ To enter the Check view, tap the Check View icon at the left or bottom of the pa
 
 In the Check view the source text is on the left and the translation work is on the right. You can compare the two and then edit the translation to include all details in the source text. 
 
-In the Check view you can access the Translation Notes, Translation Words and Translation Questions that have been included in the program. (See `Using the Translation Resources <https://btt-writer.readthedocs.io/en/latest/Helps.html>`_
+In the Check view you can access the Translation Notes, Translation Words and Translation Questions that have been included in the program. (See `Using the Translation Resources <https://btt-writer.readthedocs.io/en/latest/Helps.html>`_).
 
 If you need to make changes in the translated text, perform the following steps:
 
