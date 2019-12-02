@@ -1,13 +1,13 @@
-tS for Android™: Performing Translation 
+BTT Writer for Android™: Performing Translation 
 ==========================================================
 
-.. image:: ../images/tSForAndroidWithAttr.gif
+.. image:: ../images/BTTwriterAndroid.gif
     :width: 305px
     :align: center
     :height: 245px
-    :alt: translationStudio for Android
+    :alt: BTT Writer for Android
 
-A basic translation process for any unfoldingWord project is explained here.
+A basic translation process is explained here.
 
 As you translate, be sure that you:
 
@@ -17,14 +17,16 @@ As you translate, be sure that you:
 
 *	Do not add anything that that is not necessary for comprehension.
 
-* Always do your translation according to the Translation Guidelines (see https://unfoldingword.org/guidelines/).
+* Always do your translation according to the Translation Guidelines (see https://read.bibletranslationtools.org/u/WycliffeAssociates/en_tm/dc23f839f6/#translation-guidelines).
 
-*	Always do your translation according to the Statement of Faith (see https://unfoldingword.org/faith/).
+*	Always do your translation according to the Statement of Faith (see https://bibleineverylanguage.org/statement-of-faith/).
 
-*	Use the translationNotes (see https://unfoldingword.org/tn/) and the translationWords (see https://unfoldingword.org/tw/) to help you make a better translation. These resources are also available within translationStudio, in the Check view of the project.
+*	Use the Translation Notes, Words, and  Questions to help you make a better translation (these resources are available within BTT Writer (see `Using the Translation Resources <https://btt-writer.readthedocs.io/en/latest/Helps.html>`_).
 
 Create and Edit Text
 --------------------
+
+When you use BTT Writer, you can create and change text. Your work is saved automatically every five minutes. 
 
 Translate Text
 ^^^^^^^^^^^^^^
@@ -37,7 +39,7 @@ To write the translation in your language:
 
   * The app is organized to work with blind drafting. 
   
-  * You may want to read `MAST Core Concepts <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/MAST.rst>`_ to understand the steps of blind drafting translation.
+  * You may want to read https://bibleineverylanguage.org/processes/mast/ to understand the steps of blind drafting translation.
 
 3.	When you are ready to begin translating, tap the “piece of paper” that is behind the one you have been reading.
  
@@ -60,9 +62,6 @@ To write the translation in your language:
 9.	When you are finished working, swipe up to work on the next chunk.
  
 10.	Continue doing this with each chunk of the chapter before moving to the checking steps.
-Check and Edit Translated Text
-
-When you use translationStudio, you can create and change text. Your work is saved automatically every five minutes.
 
 Check and Edit Translated Text
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -73,15 +72,15 @@ To enter the Check view, tap the Check View icon at the left or bottom of the pa
 
 In the Check view the source text is on the left and the translation work is on the right. You can compare the two and then edit the translation to include all details in the source text. 
 
-In the Check view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. 
+In the Check view you can access the Translation Notes, Translation Words and Translation Questions that have been included in the program. (See `Using the Translation Resources <https://btt-writer.readthedocs.io/en/latest/Helps.html>`_
 
 If you need to make changes in the translated text, perform the following steps:
 
-1)	Tap the pencil icon   at the top right of the translated chunk. 
+1)	Tap the pencil icon at the top right of the translated chunk. 
  
 2)	The keyboard appears. Edit the text to include all details and correct any grammatical or spelling errors.
  
-3)	Tap the check mark icon   when done editing. The keyboard disappears.
+3)	Tap the check mark icon when done editing. The keyboard disappears.
  
 4)	Place the verse markers (skip this step if you are translating Open Bible Stories, which are not divided into verses).
 
@@ -97,11 +96,11 @@ If you need to make changes in the translated text, perform the following steps:
  
   * A message appears for you to confirm that the chunk is done. Tap Confirm to indicate that the work is done, or tap Cancel to continue editing.
  
-At any time you can slide the toggle   back to the left, or just tap it, to edit the chunk again. Use the above steps to edit.
+At any time you can slide the toggle back to the left, or just tap it, to edit the chunk again. Use the above steps to edit.
 
 Recover Deleted Translation Text
 --------------------------------
 
-If you accidentally delete a large amount of work, send email to help@door43.org.
+If you accidentally delete a large amount of work, send email to helpdesk@techadvancement.com.
 
 
