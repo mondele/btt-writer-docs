@@ -38,13 +38,13 @@ There are six Upload/Export options.
 
   * You can specify where to store the USFM file. 
   
-  * Tap Confirm to start the export. 
+  * Tap **Confirm** to start the export. 
   
   * You can then edit the file name or leave it as is.
   
   * A pop-up message appears after a successful download to show the location of your file. 
 
-  * Tap Dismiss to dismiss the message once you make note of the file location.
+  * Tap **Dismiss** to dismiss the message once you make note of the file location.
  
 3.	Tap **Export to PDF** to create a PDF file of your work. 
 
@@ -58,7 +58,7 @@ There are six Upload/Export options.
  
   * Choose where to share the PDF. A processing window appears (and may quickly disappear). 
   
-  * Tap Dismiss to go back to the Upload/Export options.
+  * Tap **Dismiss** to go back to the Upload/Export options.
 
 4.	Tap **Export Project File** to create a copy of the entire project file. The steps are the same as exporting to a PDF above.
 
@@ -73,12 +73,12 @@ There are six Upload/Export options.
   
 6. Tap **Send to another app** to send the file to other apps on your device, such as email. Tap the desired app:
 
-  * Tap Save to Drive to send your work to a Google Drive that has been created before. This requires an Internet connection.
+  * Tap **Save to Drive** to send your work to a Google Drive that has been created before. This requires an Internet connection.
 
-  * Tap Nearby Share or Android Beam to send your work to a nearby device that has BTT Writer installed on it. The app will attempt to locate the device.
+  * Tap **Nearby Share** or **Android Beam** to send your work to a nearby device that has BTT Writer installed on it. The app will attempt to locate the device.
 
-  * Tap Bluetooth to send your work to a nearby device that is paired to yours through Bluetooth. If the app continues searching for more than a minute, exit the screen and verify that the devices are paired through Bluetooth.
+  * Tap **Bluetooth** to send your work to a nearby device that is paired to yours through Bluetooth. If the app continues searching for more than a minute, exit the screen and verify that the devices are paired through Bluetooth.
 
-  * Tap Gmail to send your work to an email account. This requires an Internet connection. The app opens and enables you to send the project file as an attachment. 
+  * Tap **Gmail** to send your work to an email account. This requires an Internet connection. The app opens and enables you to send the project file as an attachment. 
   
 
