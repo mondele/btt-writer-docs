@@ -56,25 +56,25 @@ You can use BTT Writer to ensure that the project is complete and that all contr
 
 2.	Tap the 3-dot icon to access the options menu.
 
-3.	Tap Project Review (the double check marks icon).
+3.	Tap **Project Review** (the double check marks icon).
 
-    *	Tap the Project tab -- Review sections of the book for final review. 
+    *	Tap the **Project** tab -- Review sections of the book for final review. 
 
       1.	We suggest that you review any chunk that has a review button. These are chunks that are not marked done.
 
-      2.	Tap the Review button to finish translating, or set the verse markers and then slide the 'done' toggle.
+      2.	Tap the **Review** button to finish translating or set the verse markers and then slide the 'done' toggle.
 
-    •	Tap the Contributors tab -- This is where you enter who translated the work. Remember that the names will be publicly available.
+    •	Tap the **Contributors** tab -- This is where you enter who translated the work. Remember that the names will be publicly available.
 
-      1.	Tap Add Contributor.
+      1.	Tap **Add Contributor**.
  
       2.	In the Add Contributor pop-up window:
 
         *	Tap the **Name or Pseudonym** line and enter the contributor’s name or pseudonym.
 
-        *	Tap the check box to indicate that this person has agreed to the terms of use.
+        *	Tap the **check box** to indicate that this person has agreed to the terms of use.
         
-        *	Tap Save to add the translator.
+        *	Tap **Save** to add the translator.
  
       3.	Repeat steps 1 and 2 above for each contributor you want to add. 
 
@@ -84,7 +84,7 @@ You can use BTT Writer to ensure that the project is complete and that all contr
 
     •	When you either tap **Next** in the step above, or tap the **Upload/Export** tab, you are presented with Upload/Export Options. 
 
-      1.	Select Upload to Server (requires an Internet connection). 
+      1.	Tap **Upload to Server** (requires an Internet connection). 
 
       2.	A pop-up message appears after a successful upload. This pop-up message includes the repository that the translation is in on the server. 
 
