@@ -15,9 +15,9 @@ When you upload your work to the server it is automatically available online und
 
 You can access a web version of your project at:
 
-  *For Door43 (DCS): http://door43.org/u/user_name/project_name (where user_name is your user name and project_name is your translation project). BTT Writer gives you the correct link when you upload. You can also browse all works on http://door43.org.
+  * *For Door43 (DCS):* http://door43.org/u/user_name/project_name (where user_name is your user name and project_name is your translation project). BTT Writer gives you the correct link when you upload. You can also browse all works on http://door43.org.
 
-  *For WACS: https://wacs.bibletranslationtools.org/user_name/project_name (where user_name is your user name and project_name is your translation project). BTT Writer gives you the correct link when you upload. Tap **See in Reader** to see a read-friendly version of your project.
+  * *For WACS:* https://wacs.bibletranslationtools.org/user_name/project_name (where user_name is your user name and project_name is your translation project). BTT Writer gives you the correct link when you upload. Tap **See in Reader** to see a read-friendly version of your project.
 
 From your Door43 or WACS project page you can:
 
