@@ -49,7 +49,7 @@ Once you have located the project you wish to import:
 
 1. Tap the desired file to import it, or tap **DISMISS** to close the option and return to the Import Options menu.
 
-2. If you import the file, you receive a success message. Click **CLOSE** to close the window.
+2. If you import the file, you receive a success message. Tap **CLOSE** to close the window.
 
 Import Project File
 --------------------
@@ -86,15 +86,15 @@ glass and then typing the first few letters of the language in the search field.
  
 5.	The remaining screens depend on what information is contained in the USFM file. 
 
-    * You may be asked to choose a category. Click the desired category to select it. 
+    * You may be asked to choose a category. Tap the desired category to select it. 
     
-    * You may be asked to choose a book name. Click the desired book name to select it. 
+    * You may be asked to choose a book name. Tap the desired book name to select it. 
     
-    * You may be asked to choose the project type. Click the desired type to select it.
+    * You may be asked to choose the project type. Tap the desired type to select it.
     
 6. A USFM Processing Summary is displayed. If no errors were found, tap **CONTINUE**.    
     
-7.  The import begins, and when the import is completed a window displays a success message. Click **CONTINUE** to close the window.
+7.  The import begins, and when the import is completed a window displays a success message. Tap **CONTINUE** to close the window.
 
 Import Source Text
 --------------------
@@ -122,9 +122,11 @@ The possible actions for dealing with importing duplicate projects are:
 * Cancel: Tapping Cancel closes the message and the project does not get imported. 
 
 * Overwrite Project 
-  
-  * **Warning**: Choosing to overwrite the project removes all information on the computer related to the previous local project and 
+
+.. warning:: Choosing to overwrite the project removes all information on the computer related to the previous local project and 
 substitutes it with the information from the imported project.
+  
+  * **Warning**: 
  
   * We recommend that you do not choose this option if you have previously uploaded the project to the server.
  
@@ -135,7 +137,7 @@ substitutes it with the information from the imported project.
   
   * The importing process continues. 
   
-  * When the message that the import is complete shows, click **Close**. 
+  * When the message that the import is complete shows, tap **Close**. 
   
   * Open the project. 
   
@@ -158,7 +160,7 @@ Resolve the differences by following these steps:
 
 * The project opens. 
 
-* Observe that there is a triangle icon in the left column. Click the triangle icon to view only the chunks with a conflict.
+* Observe that there is a triangle icon in the left column. Tap the triangle icon to view only the chunks with a conflict.
 
   * The text that was in the translation before the import is in the upper box.  
   
