@@ -24,7 +24,7 @@ To share, move, or store your work:
 
 1. Tap the 3-dot icon in a project file to access the options menu. 
 
-2. Select Upload/Export (the upward arrow icon). 
+2. Tap **Upload/Export** (the upward arrow icon). 
  
 There are six Upload/Export options.
  
