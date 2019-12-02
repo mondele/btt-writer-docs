@@ -1,9 +1,9 @@
 .. _Helps:
 
-Using the translationHelps (Resources)
+Using the Translation Resources
 ======================================
 
-To help translators make the best translation possible, translationHelps have been created. Once you have consulted the translationHelps, then you are ready to make the best translation. Please use these resources when checking your translation!
+To help translators make the best translation possible, resources have been created. Once you have consulted the resources, then you are ready to make the best translation. Please use these resources when checking your translation!
 
 The Resources include:
 
