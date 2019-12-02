@@ -24,7 +24,7 @@ To translate a footnote:
 
     *	You may need to write down the translation because you can’t have the original footnote open and type into the footnote translation at the same time.
 
-2.	Open the translated chunk for editing.
+2.	Open the translated chunk in the Check view.
 
     * If the chunk is marked as done, tap the "mark the chunk as done" toggle so that the chunk is not marked as done.
     
@@ -32,7 +32,7 @@ To translate a footnote:
        
 3.	Tap at the place where you want to add the footnote.
  
-4.	Tap the Add Footnote icon at the top left of the translated chunk.
+4.	Tap the Add Footnote icon at the top left of the translated chunk (this icon appears only in the Check view of the chunk).
  
 5.	Translate the footnote in the source text into the “Add Footnote” pop-up and tap OK.
  
