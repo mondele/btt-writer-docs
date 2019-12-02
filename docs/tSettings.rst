@@ -79,9 +79,8 @@ The General settings are as follows:
 Server Settings
 ---------------
 
-Keep the settings for the server as determined by the program. There is no need to edit any of the settings unless directed by an unfoldingWord support technician.
-
-To change the location of the online receiving server to the Wycliffe Associates Content Server - make these changes:
+By default, BTT Writer is set to upload to or import from the Wycliffe Associates Content Server (WACS). You can change this by 
+changing the Content Server setting 
 
 1. **Authentication Server**: leave this blank (remove information there)
 
