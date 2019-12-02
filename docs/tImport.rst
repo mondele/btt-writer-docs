@@ -125,8 +125,7 @@ The possible actions for dealing with importing duplicate projects are:
  
   * We recommend that you do not choose this option if you have previously uploaded the project to the server.
  
-  * If you run into difficulty you can always contact helpdesk@techadvancement.com for help or submit a ticket using the following link: 
-`<https://www.techadvancement.com/submit-ticket/>`_.
+  * If you run into difficulty you can always contact helpdesk@techadvancement.com for help or submit a ticket using the following link: `<https://www.techadvancement.com/submit-ticket/>`_.
 
 .. warning:: Choosing to overwrite the project removes all information on the computer related to the previous local project and substitutes it with the information from the imported project.
   
