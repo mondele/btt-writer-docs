@@ -87,20 +87,26 @@ The server settings are as follows:
 
 2. **Git Server**: 
      
-     For WACS:git@wacs.bibletranslationtools.org 
+     For WACS: git@wacs.bibletranslationtools.org 
      
      For DCS: git@git.door43.org
 
 3. **Git Server Port**: 
+     
      For WACS: 22 
+     
      For DCS: 9299
 
 4. **Git Server API**: 
+     
      For WACS: https://content.bibletranslationtools.org/api/v1 
+     
      For DCS: https://git.door43.org/api/v1
 
 5. **Media Server**: 
+     
      For WACS: https://api.bibletranslationtools.org 
+     
      For DCS: https://api.unfoldingword.org
 
 Legal Settings
