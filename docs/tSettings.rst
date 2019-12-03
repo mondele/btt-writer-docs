@@ -114,15 +114,15 @@ Legal Settings
 
 Tap Legal to view important legal information. 
  
-*	**License Agreement** - read what you are permitted to do with the content in the program and the content that you create.
+*	**License Agreement** - Read what you are permitted to do with the content in the program and the content that you create.
 
-*	**Statement of Faith** - you, the user of the program, agreed to this the first time the program was started. Read this to review what the Essentials Beliefs are.
+*	**Statement of Faith** - You, the user of the program, agreed to this the first time the program was started. Read this to review what the Essentials Beliefs are.
 
-*	**Translation Guidelines** - read this document to learn about the guidelines that can help the translator clearly, accurately and naturally translate the text.
+*	**Translation Guidelines** - Read this document to learn about the guidelines that can help the translator clearly, accurately and naturally translate the text.
 
-*  **Software Licenses** - this file contains all the licenses for the various softwares that are used to create the BTT Writer program.
+*  **Software Licenses** - This file contains all the licenses for the various softwares that are used to create the BTT Writer program.
 
-*  **Attribution** - read this document to learn about the restrictions of using the derivative works and name branding.
+*  **Attribution** - Read this document to learn about the restrictions of using the derivative works and name branding.
 
 Advanced Settings
 -----------------
@@ -135,6 +135,4 @@ Advanced Settings
   
   * Tap the words to change the interval to '1 Minute', '5 Minutes', '10 Minutes' or to 'Disable Backup.' It is NOT recommended to disable the backup.
   
-* **Logging Level** and **Developer Tools**
-
-The settings in these areas are set by the program. You should not change these settings unless directed to do so by a support technician.
+* **Logging Level** and **Developer Tools** - The settings in these areas are set by the program. You should not change these settings unless directed to do so by a support technician.
