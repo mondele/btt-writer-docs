@@ -86,7 +86,9 @@ The server settings are as follows:
 1. **Content Server**: By default, BTT Writer is set to upload to or import from the Wycliffe Associates Content Server (WACS). You can change this by tapping **Content Server** and changing the setting to DCS (for the Door43 Content Server.)
 
 2. **Git Server**: 
+     
      For WACS:git@wacs.bibletranslationtools.org 
+     
      For DCS: git@git.door43.org
 
 3. **Git Server Port**: 
