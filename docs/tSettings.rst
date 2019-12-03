@@ -83,7 +83,7 @@ Tap **Server** to view or change server settings.
 
 The server settings are as follows:
 
-1. **Content Server**: By default, BTT Writer is set to upload to or import from the Wycliffe Associates Content Server (WACS). You can change this by tapping **Content Server** and changing the setting to DCS (for the Door43 Content Server.)
+1. **Content Server**: By default, BTT Writer is set to upload to or import from the Wycliffe Associates Content Server (WACS). You can change this by tapping **Content Server** and changing the setting to DCS (for the Door43 Content Server.) When you change the Content Server setting, the settings shown below change automatically to the appropriate values for the selected server.
 
 2. **Git Server**: 
      
