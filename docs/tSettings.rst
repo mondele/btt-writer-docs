@@ -99,7 +99,7 @@ The server settings are as follows:
 
 4. **Git Server API**: 
      
-     For WACS: https://content.bibletranslationtools.org/api/v1 
+     For WACS: ``https://content.bibletranslationtools.org/api/v1 
      
      For DCS: https://git.door43.org/api/v1
 
