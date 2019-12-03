@@ -26,9 +26,9 @@ The Settings window enables personalization of the program. It also displays use
 General Settings
 -----------------
 
-Tap General to view or change general settings.
+Tap **General** to view or change general settings.
 
-The General settings are as follows:
+The general settings are as follows:
 
 1.	**Device name**
 
@@ -79,20 +79,27 @@ The General settings are as follows:
 Server Settings
 ---------------
 
-By default, BTT Writer is set to upload to or import from the Wycliffe Associates Content Server (WACS). You can change this by 
-changing the Content Server setting 
+Tap **Server** to view or change server settings.
 
-1. **Authentication Server**: leave this blank (remove information there)
+The server settings are as follows:
 
-2. **Authentication Server Port**: leave this blank (remove information there)
+1. **Content Server**: By default, BTT Writer is set to upload to or import from the Wycliffe Associates Content Server (WACS). You can change this by tapping **Content Server** and changing the setting to DCS (for the Door43 Content Server.)
 
-3. **Git Server**: git@wacs.bibletranslationtools.org (instead of git@git.door43.org)
+2. **Git Server**: 
+     For WACS:git@wacs.bibletranslationtools.org 
+     For DCS: git@git.door43.org
 
-4. **Git Server Port**: 22 (instead of 9299)
+3. **Git Server Port**: 
+     For WACS: 22 
+     For DCS: 9299
 
-5. **Git Server API**: https://content.bibletranslationtools.org/api/v1 (instead of https://git.door43.org/api/v1)
+4. **Git Server API**: 
+     For WACS: https://content.bibletranslationtools.org/api/v1 
+     For DCS: https://git.door43.org/api/v1
 
-6. **Media Server**: https://api.bibletranslationtools.org (instead of https://api.unfoldingword.org)
+5. **Media Server**: 
+     For WACS: https://api.bibletranslationtools.org 
+     For DCS: https://api.unfoldingword.org
 
 Legal Settings
 --------------
@@ -120,7 +127,6 @@ Advanced Settings
   
   * Tap the words to change the interval to '1 Minute', '5 Minutes', '10 Minutes' or to 'Disable Backup.' It is NOT recommended to disable the backup.
   
-Logging Level and Developer Tools
----------------------------------
+* **Logging Level** and **Developer Tools**
 
-The settings in these areas are set by the program. You should not change these settings unless directed to do so by a BTT Writer technician.
+The settings in these areas are set by the program. You should not change these settings unless directed to do so by a support technician.
