@@ -101,7 +101,7 @@ How do I use BTT Writer for the first time?
 
 Complete these steps to use BTT Writer for the first time: 
 
-1.	If BTT Writer is open, skip to step 3. If it is not open, tap the BTT Writer icon   on the tablet (this icon may not be on the main screen; you may need to scroll to a different screen to find it.)
+1.	If BTT Writer is not open, tap the BTT Writer icon on the tablet (this icon may not be on the main screen; you may need to scroll to a different screen to find it.)
  
 2.	Create or login to your account. See `Login Options`_ for more information.
 
@@ -111,11 +111,11 @@ Complete these steps to use BTT Writer for the first time:
 
    *	Scroll through the text to read the entire statement.
 
-   *	Tap Close for each statement.
+   *	Tap **Close** for each statement.
 
-   *	When you have read all statements, tap I Agree. (At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the `Settings Menu <https://btt-writer.readthedocs.io/en/latest/tSettings.html>`_) 
+   *	When you have read all statements, tap **I Agree**. (At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the `Settings Menu <https://btt-writer.readthedocs.io/en/latest/tSettings.html>`_) 
 
-4.	The program opens to the Your Translation Projects screen (which is the home screen). 
+4.	The program opens to the *Your Translation Projects* screen (which is the home screen). 
 
 
 
