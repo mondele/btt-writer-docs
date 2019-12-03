@@ -60,7 +60,6 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ATranslate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ATranslate.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DTranslate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DTranslate.pdf>`_
  
- 
    * - **Translating Footnotes**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AFootnote.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AFootnote.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DFootnote.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DFootnote.pdf>`_  
