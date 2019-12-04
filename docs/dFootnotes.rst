@@ -1,4 +1,4 @@
-BTT Writer for the Desktop: Working with Footnotes 
+BTT Writer for the Desktop: Translating Footnotes 
 ==========================================================
 
 .. image:: ../images/BTTwriterDesktop.gif
