@@ -32,11 +32,8 @@ To download Open Bible Story notes, click	https://cdn.door43.org/en/sn/v1/obs.zi
 For Bible notes, see	https://bibleineverylanguage.org/translations/ and select the Bible book under ULB Translation Notes.
 
 
-Using the Notes
----------------------------
-
-To Translate from the ULB
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Using the Notes to Translate from the ULB
+------------------------------------------
 
 Read the ULB. Do you understand the meaning of the text so that you can accurately, clearly and naturally translate the meaning into your language?
 
