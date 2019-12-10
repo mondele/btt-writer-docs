@@ -16,7 +16,7 @@ Use these handouts to give to the mother-tongue translators. This might help the
    * - **Installing BTT Writer**
      - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_Install_Handout.pdf>`_ 
 
-   * - **Creating a Door43 Login**
+   * - **Creating a Server Login**
      - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_Login_Handout.pdf>`_ 
 
    * - **Starting a New Project**
