@@ -14,16 +14,20 @@ Use these handouts to give to the mother-tongue translators. This might help the
      - Links
 
    * - **Installing BTT Writer**
-     - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_Install_Handout.pdf>`_ 
+     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_Install_Handout.pdf>`_ 
 
    * - **Creating a Door43 Login**
-     - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_Login_Handout.pdf>`_ 
+     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_Login_Handout.pdf>`_ 
 
    * - **Starting a New Project**
-     - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_NewProject_Handout.pdf>`_
+     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_NewProject_Handout.pdf>`_
 
    * - **Navigating**
-     - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_Navigation_Handout.pdf>`_
+     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_Navigation_Handout.pdf>`_
+
+   * - **Translating**
+     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_Translation_Handout.pdf>`_
+
 
 Videos
 -------
