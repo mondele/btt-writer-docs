@@ -16,10 +16,10 @@ The BTT Writer program enables you to import a project from various sources. To 
 
 3. Tap **Import** on the menu. 
 
-There are four options to choose from when importing to BTT Writer.
+There are five options to choose from when importing to BTT Writer.
  
-Import from Server
--------------------
+1. Import from Server
+----------------------
 
 This requires an Internet connection.
 
@@ -51,8 +51,8 @@ Once you have located the project you wish to import:
 
 2. If you import the file, you receive a success message. Tap **CLOSE** to close the window.
 
-Import Project File
---------------------
+2. Import Project File
+-----------------------
 
 This process imports into the program a BTT Writer project from a file on the computer. These are files that have an extension of tstudio.
 
@@ -67,7 +67,7 @@ navigate to the desired file. Hint: you will be able to view only the files that
  
 4.	The import begins; when the import is completed a window displays a success message. Tap **CLOSE** to close the window.
 
-Import USFM File
+3. Import USFM File
 -------------------
 
 This process imports a file that is formatted as a USFM document. United Standard Format Marker (USFM) is the international standard of 
@@ -96,8 +96,8 @@ glass and then typing the first few letters of the language in the search field.
     
 7.  The import begins, and when the import is completed a window displays a success message. Tap **CONTINUE** to close the window.
 
-Import Source Text
---------------------
+4. Import Source Text
+----------------------
 
 If you have a file containing source text that you want to use for a project, you can select this option to do so. 
 Refer to the information on `<http://resource-container.readthedocs.io/en/latest/index.html>`_ to create your own source text file 
@@ -105,6 +105,9 @@ that can be imported into the BTT Writer program.
 
 Making the choice to import source text opens the File Explorer. Navigate to the desired source text file, tap the file name, and 
 tap **Open** to import it.
+
+5. Import from Another Device
+---------------------------------
 
 Importing Duplicate Projects
 -----------------------------
