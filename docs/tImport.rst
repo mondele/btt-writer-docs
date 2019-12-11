@@ -108,6 +108,11 @@ tap **Open** to import it.
 
 5. Import from Another Device
 ---------------------------------
+This enables you to import a project from another device.
+
+If you have not already named your device, you are first prompted to do so. Enter a name for your device and tap **CONFIRM**.
+ 
+On the *Import From Another Device* pop-up, select the device where the project to be imported resides, or tap CANCEL if no device is found. 
 
 Importing Duplicate Projects
 -----------------------------
