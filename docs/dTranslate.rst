@@ -35,21 +35,21 @@ For the initial translation, use Blind Edit Mode, which is organized to work wit
 
 You may want to read `<https://bibleineverylanguage.org/processes/mast/>`_ to understand the steps of blind drafting translation.
 
-3.	Open the project for the story or book that is being translated and click the Read view icon.
+1.	Open the project for the story or book that is being translated and click the Read view icon.
 
-4.	The screen of the Read view is arranged to appear like two sheets of paper, one behind the other, with the Chapter or Story view initially on top. In this view, read the source text, consuming the entire chapter.
+2.	The screen of the Read view is arranged to appear like two sheets of paper, one behind the other, with the Chapter or Story view initially on top. In this view, read the source text, consuming the entire chapter.
 
-5.	Verbally retell what you have read to another person, preferably using the target language.
+3.	Verbally retell what you have read to another person, preferably using the target language.
 
-6.	When you are ready to begin translating, click the Blind Edit icon.
+4.	When you are ready to begin translating, click the Blind Edit icon.
 
     **Note**: This icon is available only if you are using Blind Edit Mode. See `BTT Writer for the Desktop: Modifying Program Settings <https://btt-writer.readthedocs.io/en/latest/dSettings.html>`_.
 
-7.	The Blind Edit view appears and displays the text divided into chunks, which are sections that you should be able to retell without looking. Read a chunk over until you can remember what it says. 
+5.	The Blind Edit view appears and displays the text divided into chunks, which are sections that you should be able to retell without looking. Read a chunk over until you can remember what it says. 
 
-8.	For the chunk you want to translate, click the blank paper behind the one containing the text. 
+6.	For the chunk you want to translate, click the blank paper behind the one containing the text. 
 
-9.	Type in the translation for that chunk on the page. This should not be a word-for-word translation, but it should be expressed in a way that would sound natural to a native speaker of the language.
+7.	Type in the translation for that chunk on the page. This should not be a word-for-word translation, but it should be expressed in a way that would sound natural to a native speaker of the language.
  
   *	Start translating with a blind draft.  Draft the chunk as well as you can without looking back at the text. 
  
@@ -57,9 +57,9 @@ You may want to read `<https://bibleineverylanguage.org/processes/mast/>`_ to un
 
   *	Do not look back at the source text for this chunk until you begin the editing steps. 
 
-10.	When you are finished working, navigate to the next chunk.
+8.	When you are finished working, navigate to the next chunk.
 
-11.	Continue doing this with each chunk of the chapter before moving to the checking steps.
+9.	Continue doing this with each chunk of the chapter before moving to the checking steps.
 
 When you use BTT Writer, your work is saved automatically every five minutes.
 
