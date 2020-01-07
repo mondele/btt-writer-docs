@@ -32,7 +32,7 @@ Use these handouts to give to the mother-tongue translators. This might help the
 Videos
 -------
 
-Sign up for the `playlist from the YouTube channel <https://www.youtube.com/playlist?list=PLN-c0nJYW1QhJ7Oweb9eLxuidGPycJxiA>`_! 
+Sign up for the `BTT Writer playlist <https://www.youtube.com/playlist?list=PLwtF1YaXfQQEiK-xR8yFEagqk5w2-y4hs>`_ on YouTube! 
 
 
 Power Point Presentations (with PDFs)
