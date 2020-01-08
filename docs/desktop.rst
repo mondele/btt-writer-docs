@@ -7,7 +7,7 @@ BTT Writer for the Desktop: Getting Started
     :height: 200px
     :alt: BTT Writer for the Desktop
     
-`Installation video <https://www.youtube.com/watch?v=KuL39C_3ttg>`_   `Getting Started video <https://www.youtube.com/watch?v=0UvXauKUdIY>`_
+`Installation video <https://www.youtube.com/watch?v=KuL39C_3ttg>`_       `Getting Started video <https://www.youtube.com/watch?v=0UvXauKUdIY>`_
 
 BTT Writer for the Desktop enables translators to do offline translating of the Bible or of Bible resources. It can be used for two purposes:
 
