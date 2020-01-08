@@ -24,6 +24,7 @@ Contents:
    tPublish
    tSettings
    ttSUpdates
+   
    desktop
    dStart
    dNavigate
