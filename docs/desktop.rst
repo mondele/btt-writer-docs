@@ -23,7 +23,7 @@ BTT Writer for the Desktop enables translators to do offline translating of the 
 
 * For Gateway language translators to translate Bible resources from English to a gateway language
 
-The program contains the content that needs to be translated as well as translationHelps (See: `Using the translationHelps (Resources) <https://btt-writer.readthedocs.io/en/latest/Helps.html>`_). You can share information directly from device to device, and you can upload finished content to server where it can be digitally published.
+The program contains the content that needs to be translated as well as translationHelps (See: `Using the Translation Resources <https://btt-writer.readthedocs.io/en/latest/Helps.html>`_). You can share information directly from device to device, and you can upload finished content to server where it can be digitally published.
 
 Installation
 -------------
