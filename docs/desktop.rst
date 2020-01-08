@@ -58,7 +58,7 @@ This process requires an Internet connection.
  
   14. At the *Completing the translationStudio Setup Wizard* window, click Finish to complete the installation.
   
-.. youtube:: KuL39C_3ttg&t=0s
+.. youtube:: KuL39C_3ttg
 
   
 Opening BTT Writer
