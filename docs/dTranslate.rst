@@ -6,6 +6,16 @@ BTT Writer for the Desktop: Performing Translation
     :align: center
     :height: 200px
     :alt: BTT Writer for the Desktop
+    
+Watch the Videos
+----------------------------------------
+
+`Performing Translation in BTT Writer for the Desktop <https://www.youtube.com/watch?v=S31i4HClGao&list=PLwtF1YaXfQQEiK-xR8yFEagqk5w2-y4hs&index=6&t=14s>`_
+
+`Checking and Editing in BTT WRiter for the Desktop <https://youtu.be/Bl5op2NKX4g>`_
+
+The Translation Process
+-------------------------------
 
 A basic translation process for any unfoldingWord project is explained here.
 
