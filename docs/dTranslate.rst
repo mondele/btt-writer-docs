@@ -10,7 +10,7 @@ BTT Writer for the Desktop: Performing Translation
 Watch the Videos
 ----------------------------------------
 
-`Performing Translation in BTT Writer for the Desktop <https://www.youtube.com/watch?v=S31i4HClGao&list=PLwtF1YaXfQQEiK-xR8yFEagqk5w2-y4hs&index=6&t=14s>`_
+`Performing Translation in BTT Writer for the Desktop <https://www.youtube.com/watch?v=S31i4HClGao&list=PLwtF1YaXfQQEiK-xR8yFEagqk5w2-y4hs&index=6>`_
 
 `Checking and Editing in BTT WRiter for the Desktop <https://youtu.be/Bl5op2NKX4g>`_
 
